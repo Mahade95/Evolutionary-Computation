@@ -1,8 +1,8 @@
 # Evolutionary-Computation
 ## Recent Evolutionary Computation Papers
 
-| ID | Year | Paper Title | Venue | Resource Link 
-|---:|:----:|------------|-------|-----------|
+| ID | Year | Paper Title | Venue | Resource Link |Remarks|
+|---:|:----:|------------|-------|-----------|-----------|
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194)
 | 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | 📄 [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069)
 | 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3261134) | 
