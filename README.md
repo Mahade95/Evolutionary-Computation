@@ -218,7 +218,7 @@
 | 195 | 2025 | Evolutionary Neural Architecture Search Based on Pre-trained Surrogate Model | Applied Soft Computing | https://doi.org/10.1016/j.asoc.2025.114145 | N/A |
 | 196 | 2025 | Graph Neural Network-Based Surrogate Model for Evolutionary Neural Architecture Search | IEEE TSMC: Systems | https://doi.org/10.1109/TSMC.2025.3621488 | N/A |
 | 197 | 2024 | An effective surrogate-assisted rank method for evolutionary neural architecture search | Applied Soft Computing | https://doi.org/10.1016/j.asoc.2024.112392 | N/A |
-| 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | https://doi.org/10.1016/j.asoc.2023.110639 |  [GitHub] (https://github.com/%20qiunile/ASMEvoNAS) |
+| 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | https://doi.org/10.1016/j.asoc.2023.110639 |  💻[Code](https://github.com/%20qiunile/ASMEvoNAS) |
 | 199 | 2020 | A Graph-Based Fuzzy Evolutionary Algorithm for Solving Two-Echelon Vehicle Routing Problems | IEEE TEVC | https://doi.org/10.1109/TEVC.2019.2911736 | N/A |
 | 200 | 2025 | Efficient Automatic Design of IGBT Structural Parameters Using Differential Evolution and Machine Learning Model | IEEE TCAD | https://doi.org/10.1109/TCAD.2024.3468011 | N/A |
 | 201 | 2025 | Optimizing Brain Tumor Segmentation Networks Through Evolutionary Neural Architecture Search | DICTA 2025 | https://doi.org/10.1109/DICTA68720.2025 | N/A |
