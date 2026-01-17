@@ -20,9 +20,7 @@
 | 18 | 2024 | Two-Stage Adaptive Memetic Algorithm with Surprisingly Popular Mechanism for Energy-Aware Distributed Hybrid Flow Shop Scheduling Problem with Sequence-Dependent Setup Time | Complex System Modeling and Simulation | 📄 [Paper](https://doi.org/10.23919/CSMS.2024.0003) | 
 | 19 | 2022 | Auto-Design of Multi-Pass Cell With Small Size and Long Optical Path Length Using Parallel Multi-Population Genetic Algorithm | IEEE Sensors Journal | 📄 [Paper](https://doi.org/10.1109/JSEN.2022.3151847) | 
 | 20 | 2022 | Correlation-Guided Updating Strategy for Feature Selection in Classification With Surrogate-Assisted Particle Swarm Optimization | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2021.3134804) | 
-| 21 | 2026 | Financial cost optimization of urban water resource scheduling using genetic algorithms: A metaheuristic approach | Expert Systems with Applications | — | 
 | 22 | 2024 | Trajectory Correction of the Rocket for Aerodynamic Load Shedding Based on Deep Neural Network and the Chaotic Evolution Strategy With Covariance Matrix Adaptation | IEEE Trans. Aerospace & Electronic Systems | 📄 [Paper](https://doi.org/10.1109/TAES.2023.3331676) | 
-| 23 | 2022 | Scheduling flexible manufacturing cell with no-idle flow-lines and job-shop via Q-learning-based genetic algorithm | Computers & Industrial Engineering | — |
 | 24 | 2024 | Evolution of Quantum Computing: Theoretical and Innovation Management Implications for Emerging Quantum Industry | IEEE Trans. on Engineering Management | 📄 [Paper](https://doi.org/10.1109/TEM.2022.3175633) | 
 | 25 | 2019 | Surrogate-assisted robust design optimization and global sensitivity analysis of a directly coupled photovoltaic-electrolyzer system under techno-economic uncertainty | Applied Energy | — | 
 | 26 | 2025 | Differential Evolution Algorithm for Fast Gains Learning in a High-Gain Controller | IEEE TNNLS | 📄 [Paper](https://doi.org/10.1109/TNNLS.2025.3526580) | 
@@ -92,8 +90,6 @@
 | 211 | 2025 | A Hierarchical Surrogate-Assisted Differential Evolution With Core Space Localization | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2024.3489885) |
 | 212 | 2020 | A dynamic surrogate-assisted evolutionary algorithm framework for expensive structural optimization | Structural and Multidisciplinary Optimization | 📄 [Paper](https://doi.org/10.1007/s00158-019-02438-0) |
 | 213 | 2022 | Memristor Parallel Computing for a Matrix-Friendly Genetic Algorithm | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3144419) |
-| ID  | Year | Paper Title | Venue | Paper Link |
-|-----|------|-------------|-------|------------|
 | 199 | 2020 | A Graph-Based Fuzzy Evolutionary Algorithm for Solving Two-Echelon Vehicle Routing Problems | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2019.2911736) |
 | 200 | 2025 | Efficient Automatic Design of IGBT Structural Parameters Using Differential Evolution and Machine Learning Model | IEEE TCAD | 📄 [Paper](https://doi.org/10.1109/TCAD.2024.3468011) |
 | 201 | 2025 | Optimizing Brain Tumor Segmentation Networks Through Evolutionary Neural Architecture Search | DICTA 2025 | 📄 [Paper](https://doi.org/10.1109/DICTA68720.2025) |
@@ -158,7 +154,6 @@
 | 164 | 2022 | An adaptive artificial bee colony with reinforcement learning for distributed three-stage assembly scheduling with maintenance | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2021.108371) |
 | 131 | 2024 | A Novel Hybrid Whale Optimization Algorithm Differential Evolution Algorithm-Based Maximum Power Point Tracking Employed Wind Energy Conversion Systems | IEEE Transactions on Industrial Electronics | 📄 [Paper](https://doi.org/10.1109/TIE.2023.3260345) |
 | 156 | 2023 | Solving the Single-Row Facility Layout Problem by K-Medoids Memetic Permutation Group | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3165987) |
-
 | 35 | 2020 | Characterizing the effects of random subsampling on lexicase selection | Genetic Programming Theory and Practice XVII (Springer) | — | 
 | 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | — | 
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | — | 
@@ -241,6 +236,7 @@
 | 9 | 2022 | A survey on evolutionary computation for computer vision and image analysis: Past, present, and future trends | IEEE Trans. on Evolutionary Computation | — |
 | 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
 | 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — |
-
+| 23 | 2022 | Scheduling flexible manufacturing cell with no-idle flow-lines and job-shop via Q-learning-based genetic algorithm | Computers & Industrial Engineering | — |
+| 21 | 2026 | Financial cost optimization of urban water resource scheduling using genetic algorithms: A metaheuristic approach | Expert Systems with Applications | — | 
 
 
