@@ -35,7 +35,7 @@
 | 30 | 2023 | An Efficient Federated Genetic Programming Framework for Symbolic Regression | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2022.3201299) | 
 | 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | — | 
 | 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | — | 
-| 33 | 2024 | Distributed Evolution Strategies With MultiLevel Learning for Large-Scale Black-Box Optimization | IEEE TPDS | https://doi.org/10.1109/TPDS.2024.3437688 | 
+| 33 | 2024 | Distributed Evolution Strategies With MultiLevel Learning for Large-Scale Black-Box Optimization | IEEE TPDS | 📄 [Paper](https://doi.org/10.1109/TPDS.2024.3437688) | 
 | 34 | 2025 | Memetic Differential Evolution With Adaptive Niching Selection and Diversity-Driven Strategies for Multimodal Optimization | IEEE TETCI | https://doi.org/10.1109/TETCI.2025.3529903 | 
 | 35 | 2020 | Characterizing the effects of random subsampling on lexicase selection | Genetic Programming Theory and Practice XVII (Springer) | — | 
 | 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | — | 
@@ -237,7 +237,7 @@
 | 232 | 2025 | Evolutionary Computation and Explainable AI: A Roadmap to Understandable Intelligent Systems | IEEE TEVC | https://doi.org/10.1109/TEVC.2024.3476443 | 
 | 233 | 2026 | Balanced multi-objective evolution algorithm for unmanned systems project scheduling with preventive maintenance and order grouping constraints | Expert Systems with Applications | https://doi.org/10.1016/j.eswa.2025.130006 | 
 | 234 | 2023 | An improved NSGA-III algorithm based on deep Q-networks for cloud storage optimization of blockchain | IEEE TPDS | — | 
-| 235 | 2024 | A Novel Multiobjective Genetic Programming Approach to High-Dimensional Data Classification | IEEE TCYB | https://doi.org/10.1109/TCYB.2024.3372070 |
+| 235 | 2024 | A Novel Multiobjective Genetic Programming Approach to High-Dimensional Data Classification | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2024.3372070) |
 
 
 
