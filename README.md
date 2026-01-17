@@ -5,7 +5,7 @@
 | ID | Year | Paper Title | Venue | Paper link | Code link |
 |---:|:----:|------------|-------|-----------|----------|
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194) | N/A |
-| 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/4ae62e3d-0638-4222-8693-be9b7e29d790" />
+| 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | <img width="3" height="3" alt="image" src="https://github.com/user-attachments/assets/4ae62e3d-0638-4222-8693-be9b7e29d790" />
  [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069) | N/A |
 | 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | https://doi.org/10.1109/JSYST.2022.3146014 | N/A |
 | 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | https://doi.org/10.1109/ACCESS.2023.3291451 | N/A |
