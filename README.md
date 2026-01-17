@@ -1,22 +1,20 @@
 # Evolutionary-Computation
 ## Recent Evolutionary Computation Papers
 
-
 | ID | Year | Paper Title | Venue | Paper link | Code link |
 |---:|:----:|------------|-------|-----------|----------|
-| 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194) | N/A |
-| 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | <img width="3" height="3" alt="image" src="https://github.com/user-attachments/assets/4ae62e3d-0638-4222-8693-be9b7e29d790" />
- [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069) | N/A |
-| 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | https://doi.org/10.1109/JSYST.2022.3146014 | N/A |
-| 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | https://doi.org/10.1109/ACCESS.2023.3291451 | N/A |
-| 5 | 2023 | A Genetic Algorithm (GA) and Swarm-Based Binary Decision Diagram (BDD) Reordering Optimizer Reinforced With Recent Operators | IEEE Trans. on Evolutionary Computation | https://doi.org/10.1109/TEVC.2022.3170212 | N/A |
-| 6 | 2024 | GenMorph: Automatically Generating Metamorphic Relations via Genetic Programming | IEEE Trans. on Software Engineering | https://doi.org/10.1109/TSE.2024.3407840 | N/A |
-| 7 | 2020 | Aerodynamic optimization of the low-pressure turbine module: Exploiting surrogate models in a high-dimensional design space | Journal of Turbomachinery | — | N/A |
-| 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — | N/A |
-| 9 | 2022 | A survey on evolutionary computation for computer vision and image analysis: Past, present, and future trends | IEEE Trans. on Evolutionary Computation | — | N/A |
-| 10 | 2025 | Stochastic population update can provably be helpful in multi-objective evolutionary algorithms | Artificial Intelligence | — | N/A |
-| 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — | N/A |
-| 12 | 2023 | Counterexample-Driven Genetic Programming for Symbolic Regression With Formal Constraints | IEEE Trans. on Evolutionary Computation | https://doi.org/10.1109/TEVC.2022.3205286 | N/A |
+| 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194)
+| 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | 📄 [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069)
+| 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | 📄 [Paper](https://doi.org/10.1109/JSYST.2022.3146014)
+| 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | 📄 [Paper](https://doi.org/10.1109/ACCESS.2023.3291451)
+| 5 | 2023 | A Genetic Algorithm (GA) and Swarm-Based Binary Decision Diagram (BDD) Reordering Optimizer Reinforced With Recent Operators | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3170212)
+| 6 | 2024 | GenMorph: Automatically Generating Metamorphic Relations via Genetic Programming | IEEE Trans. on Software Engineering | 📄 [Paper](https://doi.org/10.1109/TSE.2024.3407840)
+| 7 | 2020 | Aerodynamic optimization of the low-pressure turbine module: Exploiting surrogate models in a high-dimensional design space | Journal of Turbomachinery | |
+| 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — |
+| 9 | 2022 | A survey on evolutionary computation for computer vision and image analysis: Past, present, and future trends | IEEE Trans. on Evolutionary Computation | — |
+| 10 | 2025 | Stochastic population update can provably be helpful in multi-objective evolutionary algorithms | Artificial Intelligence | — |
+| 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
+| 12 | 2023 | Counterexample-Driven Genetic Programming for Symbolic Regression With Formal Constraints | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3205286) |
 | 13 | 2024 | Multiselection-Based Differential Evolution | IEEE TSMC: Systems | https://doi.org/10.1109/TSMC.2024.3447051 | N/A |
 | 14 | 2025 | Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation | Information Fusion | https://doi.org/10.1016/j.inffus.2025.103301 | N/A |
 | 15 | 2024 | Large-Scale Parallel Cognitive Diagnostic Test Assembly Using A Dual-Stage Differential Evolution-Based Approach | IEEE Trans. on Artificial Intelligence | https://doi.org/10.1109/TAI.2023.3341916 | N/A |
