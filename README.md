@@ -19,3 +19,8 @@
 | Survey | — | A review of surrogate-assisted evolutionary algorithms for expensive optimization problems | — | — |
 | Multi-objective NAS | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | GitHub (https://github.com/%20qiunile/ASMEvoNAS) |
 | NAS | 2023 | RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning | IEEE TNNLS | GitHub |
+
+| Category | Year | Paper Title | Venue | Links |
+|--------|------|------------|-------|------|
+| Multi-objective NAS | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.xxx) · 💻 [Code](https://github.com/xxx/ASMEvoNAS) |
+| NAS | 2023 | RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning | IEEE TNNLS | 📄 [Paper](https://ieeexplore.ieee.org/document/XXXXX) · 💻 [Code](https://github.com/xxx/RelativeNAS) |
