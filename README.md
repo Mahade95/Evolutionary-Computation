@@ -17,5 +17,5 @@
 | Surrogate | — | Cyber-physical data fusion in surrogate-assisted strength Pareto evolutionary algorithm for PHEV energy management optimization | — | — |
 | Surrogate | — | Aerodynamic optimization of the low-pressure turbine module: Exploiting surrogate models in a high-dimensional design space | ASME | — |
 | Survey | — | A review of surrogate-assisted evolutionary algorithms for expensive optimization problems | — | — |
-| Multi-objective NAS | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | GitHub |
+| Multi-objective NAS | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | GitHub (https://github.com/%20qiunile/ASMEvoNAS) |
 | NAS | 2023 | RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning | IEEE TNNLS | GitHub |
