@@ -5,6 +5,7 @@
 |---:|:----:|------------|-------|-----------|
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194)
 | 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | 📄 [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069)
+| 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3261134) | 
 | 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110639) 🧠 [GitHub](https://github.com/qiunile/ASMEvoNAS) |
 | 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | 📄 [Paper](https://doi.org/10.1109/JSYST.2022.3146014)
 | 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | 📄 [Paper](https://doi.org/10.1109/ACCESS.2023.3291451)
@@ -31,7 +32,7 @@
 | 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | — | 
 | 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | — | 
 | 33 | 2024 | Distributed Evolution Strategies With MultiLevel Learning for Large-Scale Black-Box Optimization | IEEE TPDS | 📄 [Paper](https://doi.org/10.1109/TPDS.2024.3437688) | 
-| 34 | 2025 | Memetic Differential Evolution With Adaptive Niching Selection and Diversity-Driven Strategies for Multimodal Optimization | IEEE TETCI | https://doi.org/10.1109/TETCI.2025.3529903 |
+| 34 | 2025 | Memetic Differential Evolution With Adaptive Niching Selection and Diversity-Driven Strategies for Multimodal Optimization | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2025.3529903) |
 | 39  | 2024 | Tree-Based Codification in Neural Architecture Search for Medical Image Segmentation | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3353182) | 
 | 40  | 2025 | A Hybrid Self-Adaptive Differential Evolution Algorithm With Simplified Bayesian Local Optimizer for Efficient Design of Antennas | IEEE Trans. Antennas and Propagation | 📄 [Paper](https://doi.org/10.1109/TAP.2024.3501406) | 
 | 41  | 2023 | Continuous Cartesian Genetic Programming Based Representation for Multi-Objective Neural Architecture Search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110788) |
@@ -159,7 +160,6 @@
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | — | 
 | 38 | 2016 | Grammar design for derivation tree based genetic programming systems | European Conference on Genetic Programming (Springer) | — | 
 | 42 | 2020 | One step forward toward smart city Utopia: Smart building energy management based on adaptive surrogate modelling | Energy and Buildings | — |
-| 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE TEVC | https://doi.org/10.1109/TEVC.2023.3261134 | 
 | 44 | 2025 | A reinforcement learning-assisted genetic programming algorithm for team formation problem considering person-job matching | Neurocomputing | — |
 | 45 | 2018 | A multiple surrogate assisted evolutionary algorithm for optimization involving iterative solvers | Engineering Optimization | — |
 | 47 | 2002 | Quantum-inspired evolutionary algorithm for a class of combinatorial optimization | IEEE Trans. on Evolutionary Computation | — |
