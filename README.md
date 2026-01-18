@@ -13,8 +13,11 @@
 |---:|:----:|------------|-------|-----------|-----------|
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194)
 | 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | 📄 [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069)
-| 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3261134) | 
-| 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110639) 🧠 [GitHub](https://github.com/qiunile/ASMEvoNAS) |
+| 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3261134) | 
+| 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110639) 🧠[GitHub](https://github.com/qiunile/ASMEvoNAS) |
+| 175 | 2023 | NPENAS: Neural Predictor Guided Evolution for Neural Architecture Search | IEEE TNNLS | 📄 [Paper](https://doi.org/10.1109/TNNLS.2022.3211522) 🧠[GitHub](https://github.com/auroua/NPENASv1)|
+| 159 | 2021 | EEEA-Net: An Early Exit Evolutionary Neural Architecture Search | Engineering Applications of Artificial Intelligence | 📄 [Paper](https://doi.org/10.1016/j.engappai.2021.104397) 🧠[GitHub](https://github.com/chakkritte/EEEA-Net)|
+| 24 | 2021 | FairNas: rethinking evaluation fairness of weight sharing neural architecture search | IEEE/CVF International Conference on computer vision | 🧠[GitHub](https://github.com/xiaomi-automl/FairNAS)
 | 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | 📄 [Paper](https://doi.org/10.1109/JSYST.2022.3146014)
 | 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | 📄 [Paper](https://doi.org/10.1109/ACCESS.2023.3291451)
 | 5 | 2023 | A Genetic Algorithm (GA) and Swarm-Based Binary Decision Diagram (BDD) Reordering Optimizer Reinforced With Recent Operators | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3170212)
@@ -41,23 +44,23 @@
 | 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | — | 
 | 33 | 2024 | Distributed Evolution Strategies With MultiLevel Learning for Large-Scale Black-Box Optimization | IEEE TPDS | 📄 [Paper](https://doi.org/10.1109/TPDS.2024.3437688) | 
 | 34 | 2025 | Memetic Differential Evolution With Adaptive Niching Selection and Diversity-Driven Strategies for Multimodal Optimization | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2025.3529903) |
-| 39  | 2024 | Tree-Based Codification in Neural Architecture Search for Medical Image Segmentation | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3353182) | 
+| 39  | 2024 | Tree-Based Codification in Neural Architecture Search for Medical Image Segmentation | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3353182) | 
 | 40  | 2025 | A Hybrid Self-Adaptive Differential Evolution Algorithm With Simplified Bayesian Local Optimizer for Efficient Design of Antennas | IEEE Trans. Antennas and Propagation | 📄 [Paper](https://doi.org/10.1109/TAP.2024.3501406) | 
 | 41  | 2023 | Continuous Cartesian Genetic Programming Based Representation for Multi-Objective Neural Architecture Search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110788) |
 | 46  | 2022 | Multiple Buried Target Reconstruction Using a Multiscale Hybrid of Diffraction Tomography and CMA-ES Optimization | IEEE TGRS | 📄 [Paper](https://doi.org/10.1109/TGRS.2022.3206722) |
 | 48  | 2025 | Application of Remote Sensing Technologies in Monitoring and Managing Renewable Energy Sources | IEEE Trans. on Consumer Electronics | 📄 [Paper](https://doi.org/10.1109/TCE.2025.3565573) |
 | 49  | 2025 | Automated Polyp Segmentation Using Evolutionary Neural Architecture Search | DICTA 2025 | 📄 [Paper](https://doi.org/10.1109/DICTA68720.2025.11302467) |
-| 50  | 2025 | Active Learning in Genetic Programming: Guiding Efficient Data Collection for Symbolic Regression | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3471341) |
-| 53  | 2016 | Many-Objective Evolutionary Algorithm: Objective Space Reduction and Diversity Improvement | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2015.2433266) |
-| 60  | 2025 | Many-Task Differential Evolutionary Algorithm Based on Bi-Space Similarity | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3398436) |
+| 50  | 2025 | Active Learning in Genetic Programming: Guiding Efficient Data Collection for Symbolic Regression | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3471341) |
+| 53  | 2016 | Many-Objective Evolutionary Algorithm: Objective Space Reduction and Diversity Improvement | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2015.2433266) |
+| 60  | 2025 | Many-Task Differential Evolutionary Algorithm Based on Bi-Space Similarity | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3398436) |
 | 61  | 2025 | Mixed-GGNAS: Mixed Search-space NAS based on genetic algorithm combined with gradient descent for medical image segmentation | Expert Systems with Applications | 📄 [Paper](https://doi.org/10.1016/j.eswa.2025.128338) |
 | 62  | 2024 | Schedule Disruption Recovery in Liner Shipping Service Based on a Reinforcement Learning-Enabled Adaptive Genetic Algorithm | IEEE T-ITS | 📄 [Paper](https://doi.org/10.1109/TITS.2024.3477996) |
-| 63  | 2025 | A Bidirectional Differential Evolution-Based Unknown Cyberattack Detection System | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3365101) |
-| 65  | 2024 | Multitask Linear Genetic Programming With Shared Individuals and Its Application to Dynamic Job Shop Scheduling | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3263871) |
-| 66  | 2025 | Toward Evolving Dispatching Rules With Flow Control Operations by Grammar-Guided Linear Genetic Programming | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3353207) |
+| 63  | 2025 | A Bidirectional Differential Evolution-Based Unknown Cyberattack Detection System | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3365101) |
+| 65  | 2024 | Multitask Linear Genetic Programming With Shared Individuals and Its Application to Dynamic Job Shop Scheduling | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3263871) |
+| 66  | 2025 | Toward Evolving Dispatching Rules With Flow Control Operations by Grammar-Guided Linear Genetic Programming | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3353207) |
 | 67  | 2024 | Semantic Linear Genetic Programming for Symbolic Regression | IEEE Transactions on Cybernetics | 📄 [Paper](https://doi.org/10.1109/TCYB.2022.3181461) |
-| 68  | 2024 | Quantum Genetic Algorithm With Individuals in Multiple Registers | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3296780) |
-| 70  | 2023 | A Niching Regression Adaptive Memetic Algorithm for Multimodal Optimization of the Euclidean Traveling Salesman Problem | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3211954) |
+| 68  | 2024 | Quantum Genetic Algorithm With Individuals in Multiple Registers | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3296780) |
+| 70  | 2023 | A Niching Regression Adaptive Memetic Algorithm for Multimodal Optimization of the Euclidean Traveling Salesman Problem | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3211954) |
 | 71  | 2025 | Real Relative Encoding Genetic Algorithm for Workflow Scheduling in Heterogeneous Distributed Computing Systems | IEEE TPDS | 📄 [Paper](https://doi.org/10.1109/TPDS.2024.3492210) |
 | 72  | 2025 | Score Predictor-Assisted Evolutionary Neural Architecture Search | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2025.3526179) |
 | 73  | 2023 | Optimized Dissolved Oxygen Prediction Using Genetic Algorithm and Bagging Ensemble Learning for Smart Fish Farm | IEEE Sensors Journal | 📄 [Paper](https://doi.org/10.1109/JSEN.2023.3278719) |
@@ -68,7 +71,7 @@
 | 81  | 2024 | Optimal Design of a Novel Semi-Elliptical Bending Waveguide Slow Wave Structure via Multistage Collaborative Deep Learning and Differential Evolution Algorithm | IEEE Transactions on Plasma Science | 📄 [Paper](https://doi.org/10.1109/TPS.2024.3412995) |
 | 83  | 2025 | Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks for Few-Shot Medical Segmentation With Noisy Labels | IEEE JBHI | 📄 [Paper](https://doi.org/10.1109/JBHI.2025.3541849) |
 | 85  | 2024 | A Two-Stage Hybrid Multi-Objective Optimization Evolutionary Algorithm for Computing Offloading in Sustainable Edge Computing | IEEE Transactions on Consumer Electronics | 📄 [Paper](https://doi.org/10.1109/TCE.2024.3376930) |
-| 88  | 2025 | Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3443913) |
+| 88  | 2025 | Bridging Evolutionary Algorithms and Reinforcement Learning: A Comprehensive Survey on Hybrid Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3443913) |
 | 91  | 2023 | Surprisingly Popular-Based Adaptive Memetic Algorithm for Energy-Efficient Distributed Flexible Job Shop Scheduling | IEEE Transactions on Cybernetics | 📄 [Paper](https://doi.org/10.1109/TCYB.2023.3280175) |
 | 97  | 2021 | Heat dissipation analysis and multi-objective optimization of a permanent magnet synchronous motor using surrogate-assisted method | Case Studies in Thermal Engineering | 📄 [Paper](https://doi.org/10.1016/j.csite.2021.101203) |
 | 99  | 2022 | Noisy Optimization by Evolution Strategies With Online Population Size Learning | IEEE Transactions on Systems, Man, and Cybernetics: Systems | 📄 [Paper](https://doi.org/10.1109/TSMC.2021.3131482) |
@@ -83,12 +86,12 @@
 | 229 | 2023 | A reinforced hybrid genetic algorithm for the traveling salesman problem | Computers & Operations Research | 📄 [Paper](https://doi.org/10.1016/j.cor.2023.106249) |
 | 230 | 2023 | An adaptive artificial bee colony algorithm enhanced by Deep Q-Learning for milk-run vehicle scheduling problem based on supply hub | Knowledge-based systems | 📄 [Paper](https://doi.org/10.1016/j.knosys.2023.110367) |
 | 231 | 2023 | LAGAM: A Length-Adaptive Genetic Algorithm With Markov Blanket for High-Dimensional Feature Selection in Classification | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2022.3163577) |
-| 232 | 2025 | Evolutionary Computation and Explainable AI: A Roadmap to Understandable Intelligent Systems | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3476443) |
+| 232 | 2025 | Evolutionary Computation and Explainable AI: A Roadmap to Understandable Intelligent Systems | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3476443) |
 | 222 | 2024 | Construction and Analysis of Network Cloud Security Situation Awareness System Based on DBN-DE Algorithm | Journal of Cyber Security and Mobility | 📄 [Paper](https://doi.org/10.13052/jcsm2245-1439.1335) |
 | 225 | 2023 | An inverse reinforcement learning framework with the Q-learning mechanism for the metaheuristic algorithm | Knowledge-Based Systems | 📄 [Paper](https://doi.org/10.1016/j.knosys.2023.110368) |
 | 218 | 2022 | Variational reinforcement learning for hyperparameter tuning of adaptive evolutionary algorithm | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2022.3181461) |
 | 219 | 2022 | A New Crossover Mechanism for Genetic Algorithms for Steiner Tree Optimization | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2020.3005047) |
-| 220 | 2024 | A Quantum Evolutionary Learning Tracker for Video | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3264641) |
+| 220 | 2024 | A Quantum Evolutionary Learning Tracker for Video | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3264641) |
 | 221 | 2025 | Fully Informed Fuzzy Logic System Assisted Adaptive Differential Evolution Algorithm for Noisy Optimization | IEEE TFS | 📄 [Paper](https://doi.org/10.1109/TFUZZ.2025.3545442) |
 | 215 | 2025 | PSNAS-Net: Hybrid gradient-physical optimization for efficient neural architecture search in customized medical imaging analysis | Expert Systems with Applications | 📄 [Paper](https://doi.org/10.1016/j.eswa.2025.128155) |
 | 216 | 2024 | A Collaborative Drone-Truck Delivery System With Memetic Computing Optimization | IEEE TSMC: Systems | 📄 [Paper](https://doi.org/10.1109/TSMC.2024.3371471) |
@@ -98,13 +101,13 @@
 | 210 | 2023 | Improved meta-heuristics with Q-learning for solving distributed assembly permutation flowshop scheduling problems | Swarm and Evolutionary Computation | 📄 [Paper](https://doi.org/10.1016/j.swevo.2023.101335) |
 | 211 | 2025 | A Hierarchical Surrogate-Assisted Differential Evolution With Core Space Localization | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2024.3489885) |
 | 212 | 2020 | A dynamic surrogate-assisted evolutionary algorithm framework for expensive structural optimization | Structural and Multidisciplinary Optimization | 📄 [Paper](https://doi.org/10.1007/s00158-019-02438-0) |
-| 213 | 2022 | Memristor Parallel Computing for a Matrix-Friendly Genetic Algorithm | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3144419) |
-| 199 | 2020 | A Graph-Based Fuzzy Evolutionary Algorithm for Solving Two-Echelon Vehicle Routing Problems | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2019.2911736) |
+| 213 | 2022 | Memristor Parallel Computing for a Matrix-Friendly Genetic Algorithm | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3144419) |
+| 199 | 2020 | A Graph-Based Fuzzy Evolutionary Algorithm for Solving Two-Echelon Vehicle Routing Problems | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2019.2911736) |
 | 200 | 2025 | Efficient Automatic Design of IGBT Structural Parameters Using Differential Evolution and Machine Learning Model | IEEE TCAD | 📄 [Paper](https://doi.org/10.1109/TCAD.2024.3468011) |
 | 201 | 2025 | Optimizing Brain Tumor Segmentation Networks Through Evolutionary Neural Architecture Search | DICTA 2025 | 📄 [Paper](https://doi.org/10.1109/DICTA68720.2025) |
 | 202 | 2025 | Evo-GrayNet: Colon Polyp Detection and Segmentation using Evolutionary Network Architecture Search | IEEE TIM | 📄 [Paper](https://doi.org/10.1109/TIM.2025.3636637) |
 | 203 | 2026 | EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation | Information Fusion | 📄 [Paper](https://doi.org/10.1016/j.inffus.2026.104119) |
-| 204 | 2022 | Automated Configuration of Genetic Algorithms by Tuning for Anytime Performance | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3159087) |
+| 204 | 2022 | Automated Configuration of Genetic Algorithms by Tuning for Anytime Performance | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3159087) |
 | 205 | 2023 | Joint Active and Passive Beamforming Optimization for Multi-IRS-Assisted Wireless Communication Systems: A Covariance Matrix Adaptation Evolution Strategy | IEEE TVT | 📄 [Paper](https://doi.org/10.1109/TVT.2023.3253505) |
 | 113 | 2022 | Hybridizing Niching, Particle Swarm Optimization, and Evolution Strategy for Multimodal Optimization | IEEE Transactions on Cybernetics | 📄 [Paper](https://doi.org/10.1109/TCYB.2020.3032995) |
 | 114 | 2024 | Economic Emission Dispatch With Stochastic Renewable Power and Voltage Source Converters via Reinforcement Learning Multi-Objective Differential Evolution | IEEE Transactions on Power Systems | 📄 [Paper](https://doi.org/10.1109/TPWRS.2024.3371833) |
@@ -114,55 +117,53 @@
 | 123 | 2025 | Two-Stage Deep Feature Selection Method Using Voting Differential Evolution Algorithm for Pneumonia Detection From Chest X-Ray Images | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2024.3425285) |
 | 127 | 2024 | Optimal Design of THz NRD Rat-Race Circuit Using Function Expansion Based Topology Optimization Method With CMA-ES | IEEE Photonics Journal |📄 [Paper](https://doi.org/10.1109/JPHOT.2024.3411115) |
 | 129 | 2025 | AI-Assisted Antenna Optimization: Integrating Evolutionary and Inverse Cascade Neural Networks With Differential Evolution | IEEE TAP | 📄 [Paper](https://doi.org/10.1109/TAP.2025.3553761) |
-| 135 | 2025 | A Biased Random Key Genetic Algorithm for Solving the Longest Common Square Subsequence Problem | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3413150) |
+| 135 | 2025 | A Biased Random Key Genetic Algorithm for Solving the Longest Common Square Subsequence Problem | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3413150) |
 | 136 | 2023 | A Memetic Algorithm for Cooperative Complex Task Offloading in Heterogeneous Vehicular Networks | IEEE TNSE | 📄 [Paper](https://doi.org/10.1109/TNSE.2022.3206228) |
-| 137 | 2025 | Performance Assessment of Population-Based Multiobjective Optimization Algorithms Using Composite Indicators | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2025.3544412) |
+| 137 | 2025 | Performance Assessment of Population-Based Multiobjective Optimization Algorithms Using Composite Indicators | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2025.3544412) |
 | 138 | 2025 | Optimization of Waveguide Bend Loss in Integrated Optical Gyroscope Based on CMA-ES Algorithm | IEEE Sensors Journal | 📄 [Paper](https://doi.org/10.1109/JSEN.2025.3589254) |
 | 139 | 2025 | Hierarchical Encoding Method for Retinal Segmentation Evolutionary Architecture Search | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2024.3395540) |
-| 132 | 2024 | A Self-Adaptive Collaborative Differential Evolution Algorithm for Solving Energy Resource Management Problems in Smart Grids | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3312769) |
+| 132 | 2024 | A Self-Adaptive Collaborative Differential Evolution Algorithm for Solving Energy Resource Management Problems in Smart Grids | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3312769) |
 | 141 | 2024 | Neural Architecture Search Using Covariance Matrix Adaptation Evolution Strategy | Evolutionary Computation | 📄 [Paper](https://doi.org/10.1162/evco_a_00331) |
-| 142 | 2025 | A Comparison of Large Language Models and Genetic Programming for Program Synthesis | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3410873) |
-| 143 | 2023 | A Comprehensive Survey on Program Synthesis With Evolutionary Algorithms | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3162324) |
+| 142 | 2025 | A Comparison of Large Language Models and Genetic Programming for Program Synthesis | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3410873) |
+| 143 | 2023 | A Comprehensive Survey on Program Synthesis With Evolutionary Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3162324) |
 | 145 | 2024 | Energy-Efficient Satellite Range Scheduling Using a Reinforcement Learning-Based Memetic Algorithm | IEEE TAES | 📄 [Paper](https://doi.org/10.1109/TAES.2024.3371964) |
-| 146 | 2025 | LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3497793) |
+| 146 | 2025 | LLaMEA: A Large Language Model Evolutionary Algorithm for Automatically Generating Metaheuristics | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3497793) |
 | 150 | 2020 | Automatically Designing CNN Architectures Using the Genetic Algorithm for Image Classification | IEEE Transactions on Cybernetics | 📄 [Paper](https://doi.org/10.1109/TCYB.2020.2983860) |
-| 151 | 2019 | IGD Indicator-Based Evolutionary Algorithm for Many-Objective Optimization Problems | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2018.2791283) |
+| 151 | 2019 | IGD Indicator-Based Evolutionary Algorithm for Many-Objective Optimization Problems | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2018.2791283) |
 | 153 | 2023 | Optimization of RF Frequencies in Dual-Frequency Capacitively Coupled Plasma Apparatus Using Genetic Algorithm and Plasma Simulation | IEEE Transactions on Semiconductor Manufacturing | 📄 [Paper](https://doi.org/10.1109/TSM.2023.3282566) |
 | 154 | 2023 | RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning | IEEE TNNLS | 📄 [Paper](https://doi.org/10.1109/TNNLS.2021.3096658) |
 | 188 | 2025 | Adaptive Multiparticle Swarm Neural Architecture Search for High-Incidence Cancer Prediction | IEEE TAI | 📄 [Paper](https://doi.org/10.1109/TAI.2025.3543822) |
 | 189 | 2025 | Continuous Berth Allocation and Time-Variant Quay Crane Assignment: Memetic Algorithm With a Heuristic Decoding Method | IEEE TITS | 📄 [Paper](https://doi.org/10.1109/TITS.2024.3517879) |
-| 190 | 2024 | Genetic Programming With Lexicase Selection for Large-Scale Dynamic Flexible Job Shop Scheduling | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3244607) |
+| 190 | 2024 | Genetic Programming With Lexicase Selection for Large-Scale Dynamic Flexible Job Shop Scheduling | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3244607) |
 | 191 | 2023 | A Multi-Population MultiObjective Evolutionary Algorithm Based on the Contribution of Decision Variables to Objectives for Large-Scale Multi/Many-Objective Optimization | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2022.3180214) |
-| 192 | 2023 | Neural Architecture Search Based on a Multi-Objective Evolutionary Algorithm With Probability Stack | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3252612) |
+| 192 | 2023 | Neural Architecture Search Based on a Multi-Objective Evolutionary Algorithm With Probability Stack | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3252612) |
 | 193 | 2025 | A Surrogate Model with Multiple Comparisons and Semi-Online Learning for Evolutionary Neural Architecture Search | IEEE TETCI | 📄 [Paper](https://doi.org/10.1109/TETCI.2025.3547621) |
-| 194 | 2023 | Evolutionary architecture search for generative adversarial networks based on weight sharing | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3252612) |
+| 194 | 2023 | Evolutionary architecture search for generative adversarial networks based on weight sharing | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3252612) |
 | 195 | 2025 | Evolutionary Neural Architecture Search Based on Pre-trained Surrogate Model | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2025.114145) |
 | 196 | 2025 | Graph Neural Network-Based Surrogate Model for Evolutionary Neural Architecture Search | IEEE TSMC: Systems | 📄 [Paper](https://doi.org/10.1109/TSMC.2025.3621488) |
 | 197 | 2024 | An effective surrogate-assisted rank method for evolutionary neural architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2024.112392) |
 | 180 | 2021 | An Evolutionary Multiobjective Route Grouping-Based Heuristic Algorithm for Large-Scale Capacitated Vehicle Routing Problems | IEEE TCYB | 📄 [Paper](https://doi.org/10.1109/TCYB.2019.2950626) |
 | 181 | 2024 | An Efficient Service-Aware Virtual Machine Scheduling Approach Based on Multi-Objective Evolutionary Algorithm | IEEE TSC | 📄 [Paper](https://doi.org/10.1109/TSC.2023.3341842) |
-| 182 | 2024 | Surrogate-Assisted Evolutionary Algorithm With Model and Infill Criterion Auto-Configuration | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3291614) |
+| 182 | 2024 | Surrogate-Assisted Evolutionary Algorithm With Model and Infill Criterion Auto-Configuration | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3291614) |
 | 183 | 2025 | Predictive Control for an Ankle Rehabilitation Robot Using Differential Evolution Optimization Algorithm-Based Fuzzy NARX Model | IEEE TNSRE | 📄 [Paper](https://doi.org/10.1109/TNSRE.2025.3568791) |
-| 184 | 2025 | Evolutionary Dynamic Multiobjective Optimization With Learning Across Problems | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2025.3596468) |
+| 184 | 2025 | Evolutionary Dynamic Multiobjective Optimization With Learning Across Problems | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2025.3596468) |
 | 185 | 2024 | Enhancing Ultrasonic Time-of-Flight Estimation Using Adaptive Differential Evolution and Levenberg–Marquardt Algorithm | IEEE Sensors Journal | 📄 [Paper](https://doi.org/10.1109/JSEN.2023.3324502) |
-| 175 | 2023 | NPENAS: Neural Predictor Guided Evolution for Neural Architecture Search | IEEE TNNLS | 📄 [Paper](https://doi.org/10.1109/TNNLS.2022.3211522) |
 | 176 | 2022 | Genetic U-Net: Automatically Designed Deep Networks for Retinal Vessel Segmentation Using a Genetic Algorithm | IEEE TMI | 📄 [Paper](https://doi.org/10.1109/TMI.2021.3111679) |
-| 177 | 2025 | Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3506731) |
-| 178 | 2023 | Cooperative Coevolutionary CMA-ES With Landscape-Aware Grouping in Noisy Environments | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3180224) |
-| 159 | 2021 | EEEA-Net: An Early Exit Evolutionary Neural Architecture Search | Engineering Applications of Artificial Intelligence | 📄 [Paper](https://doi.org/10.1016/j.engappai.2021.104397) |
+| 177 | 2025 | Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3506731) |
+| 178 | 2023 | Cooperative Coevolutionary CMA-ES With Landscape-Aware Grouping in Noisy Environments | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3180224) |
 | 160 | 2022 | A Comparative Study on Evolutionary Algorithms and Mathematical Programming Methods for Continuous Optimization | IEEE CEC 2022 | 📄 [Paper](https://doi.org/10.1109/CEC55065.2022.9870359) |
-| 166 | 2025 | Fractional Order Differential Evolution | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3382047) |
+| 166 | 2025 | Fractional Order Differential Evolution | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3382047) |
 | 167 | 2021 | Heat dissipation optimization for a serpentine liquid cooling battery thermal management system: An application of surrogate assisted approach | Journal of Energy Storage | 📄 [Paper](https://doi.org/10.1016/j.est.2021.102771) |
-| 168 | 2023 | A Multi-Objective Genetic Programming Algorithm With α Dominance and Archive for Uncertain Capacitated Arc Routing Problem | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3195165) |
+| 168 | 2023 | A Multi-Objective Genetic Programming Algorithm With α Dominance and Archive for Uncertain Capacitated Arc Routing Problem | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3195165) |
 | 169 | 2025 | Differential Evolution with Perturbation Estimation Strategy for Multiobjective Optimization | Chinese Journal of Electronics | 📄 [Paper](https://doi.org/10.23919/cje.2023.00.322) |
 | 171 | 2025 | Reinforcement Learning-Assisted Memetic Algorithm for Sustainability-Oriented Multiobjective Distributed Flow Shop Group Scheduling | IEEE TSMC: Systems | 📄 [Paper](https://doi.org/10.1109/TSMC.2024.3518625) |
-| 172 | 2024 | MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3352641) |
-| 173 | 2023 | A Bilevel Gene-Based Multiobjective Memetic Algorithm for Passive Localization System Deployment Optimization | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3168427) |
+| 172 | 2024 | MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3352641) |
+| 173 | 2023 | A Bilevel Gene-Based Multiobjective Memetic Algorithm for Passive Localization System Deployment Optimization | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3168427) |
 | 162 | 2025 | Enhancing Reservoir Characterization: Genetic Algorithm-Assisted Correction of Pore Aspect Ratio Using CNN-LSTM in Petrophysical Modeling | IEEE TGRS | 📄 [Paper](https://doi.org/10.1109/TGRS.2025.3548650) |
-| 163 | 2024 | A Multiobjective Genetic Algorithm to Evolving Local Interpretable Model-Agnostic Explanations for Deep Neural Networks in Image Classification | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3225591) |
+| 163 | 2024 | A Multiobjective Genetic Algorithm to Evolving Local Interpretable Model-Agnostic Explanations for Deep Neural Networks in Image Classification | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3225591) |
 | 164 | 2022 | An adaptive artificial bee colony with reinforcement learning for distributed three-stage assembly scheduling with maintenance | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2021.108371) |
 | 131 | 2024 | A Novel Hybrid Whale Optimization Algorithm Differential Evolution Algorithm-Based Maximum Power Point Tracking Employed Wind Energy Conversion Systems | IEEE Transactions on Industrial Electronics | 📄 [Paper](https://doi.org/10.1109/TIE.2023.3260345) |
-| 156 | 2023 | Solving the Single-Row Facility Layout Problem by K-Medoids Memetic Permutation Group | IEEE TEVC | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3165987) |
+| 156 | 2023 | Solving the Single-Row Facility Layout Problem by K-Medoids Memetic Permutation Group | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3165987) |
 | 35 | 2020 | Characterizing the effects of random subsampling on lexicase selection | Genetic Programming Theory and Practice XVII (Springer) | — | 
 | 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | — | 
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | — | 
@@ -189,7 +190,7 @@
 | 86 | 2026 | An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification | Expert Systems with Applications | — |  
 | 87 | 2023 | Survey on evolutionary deep learning: Principles, algorithms, applications, and open issues | ACM Computing Surveys | — |  
 | 89 | 2022 | A reinforcement learning based RMOEA/D for bi-objective fuzzy flexible job shop scheduling | Expert Systems with Applications | — |  
-| 90 | 2022 | A learning-based memetic algorithm for energy-efficient flexible job-shop scheduling with type-2 fuzzy processing time | IEEE TEVC | — |  
+| 90 | 2022 | A learning-based memetic algorithm for energy-efficient flexible job-shop scheduling with type-2 fuzzy processing time | IEEE Trans. on Evolutionary Computation | — |  
 | 92 | 2023 | Evolutionary multitasking via reinforcement learning | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
 | 93 | 2026 | Efficient complex task offloading in blockchain-secured edge computing using a many-objective evolutionary algorithm | Future Generation Computer Systems | — |  
 | 94 | 2023 | Scheduling of continuous annealing with a multi-objective differential evolution algorithm based on deep reinforcement learning | IEEE Transactions on Automation Science and Engineering | — |  
@@ -220,7 +221,7 @@
 | 140 | 2017 | Surrogate-based MOEA/D for electric motor design with scarce function evaluations | IEEE Transactions on Magnetics | — |  
 | 144 | 2023 | Learning adaptive genetic algorithm for earth electromagnetic satellite scheduling | IEEE TAES | — |  
 | 147 | 2021 | Multi-objective design optimization of battery thermal management system for electric vehicles | Applied Thermal Engineering | — |  
-| 148 | 2020 | Surrogate-assisted evolutionary deep learning using an end-to-end random forest-based performance predictor | IEEE TEVC | — |  
+| 148 | 2020 | Surrogate-assisted evolutionary deep learning using an end-to-end random forest-based performance predictor | IEEE Trans. on Evolutionary Computation | — |  
 | 149 | 2019 | Completely automated CNN architecture design based on blocks | IEEE TNNLS | — |   
 | 152 | 2025 | Multi-objective evolutionary neural architecture search for medical image analysis using transformer and large language models in advancing public health | Applied Soft Computing | — |  
 | 155 | 2025 | M2M-Net: multi-objective neural architecture search using dynamic M2M population decomposition | Neural Computing and Applications | — |  
