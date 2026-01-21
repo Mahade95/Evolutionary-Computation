@@ -1,7 +1,6 @@
 # Evolutionary-Computation
 
-## Recent Evolutionary Computation Papers
-
+## Recent Evolutionary Computation Related Papers
 | ID | Year | Paper Title | Venue | Paper Link |Code|
 |---:|:----:|------------|-------|-----------|-----------|
 | 214 | 2025 | Mde-EvoNAS: Automatic network architecture design for monocular depth estimation via evolutionary neural architecture search | Swarm and Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.swevo.2024.101837) | N/A| 
