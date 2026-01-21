@@ -1,23 +1,18 @@
 # Evolutionary-Computation
-
-
-
-
-
-
-
+2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110639) |[![GitHub Code](https://img.shields.io/badge/GitHub%20Code-available-blue?logo=github)](https://github.com/qiunile/ASMEvoNAS)|
+| 175 | 2023 | NPENAS: Neural Predictor Guided Evolution for Neural Architecture Search | IEEE TNNLS | 📄 [Paper](https://doi.org/10.1109/TNNLS.2022.3211522)| |[![GitHub Code](https://img.shields.io/badge/GitHub%20Code-available-blue?logo=github)](https://github.com/auroua/NPENASv1)|
 
 ## Recent Evolutionary Computation Papers
 
 | ID | Year | Paper Title | Venue | Resource Link |Remarks|
 |---:|:----:|------------|-------|-----------|-----------|
+| 21 | 2026 | Financial cost optimization of urban water resource scheduling using genetic algorithms: A metaheuristic approach | Expert Systems with Applications | 📄 [Paper](https://doi.org/10.1016/j.eswa.2025.128617)|-| 
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2024.3485194)
 | 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | 📄 [Paper](https://doi.org/10.1109/OJCOMS.2024.3479069)
 | 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2023.3261134) | 
-| 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110639) 🧠[GitHub](https://github.com/qiunile/ASMEvoNAS) |
-| 175 | 2023 | NPENAS: Neural Predictor Guided Evolution for Neural Architecture Search | IEEE TNNLS | 📄 [Paper](https://doi.org/10.1109/TNNLS.2022.3211522) 🧠[GitHub](https://github.com/auroua/NPENASv1)|
-| 159 | 2021 | EEEA-Net: An Early Exit Evolutionary Neural Architecture Search | Engineering Applications of Artificial Intelligence | 📄 [Paper](https://doi.org/10.1016/j.engappai.2021.104397) 🧠[GitHub](https://github.com/chakkritte/EEEA-Net)|
-| 24 | 2021 | FairNas: rethinking evaluation fairness of weight sharing neural architecture search | IEEE/CVF International Conference on computer vision | 🧠[GitHub](https://github.com/xiaomi-automl/FairNAS)
+| 198 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | 📄 [Paper](https://doi.org/10.1016/j.asoc.2023.110639) |[![GitHub Code](https://img.shields.io/badge/GitHub%20Code-available-blue?logo=github)](https://github.com/qiunile/ASMEvoNAS)|
+| 159 | 2021 | EEEA-Net: An Early Exit Evolutionary Neural Architecture Search | Engineering Applications of Artificial Intelligence | 📄 [Paper](https://doi.org/10.1016/j.engappai.2021.104397) |🧠[GitHub](https://github.com/chakkritte/EEEA-Net)|
+| 24 | 2021 | FairNas: rethinking evaluation fairness of weight sharing neural architecture search | IEEE/CVF International Conference on computer vision | |🧠[GitHub](https://github.com/xiaomi-automl/FairNAS)
 | 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | 📄 [Paper](https://doi.org/10.1109/JSYST.2022.3146014)
 | 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | 📄 [Paper](https://doi.org/10.1109/ACCESS.2023.3291451)
 | 5 | 2023 | A Genetic Algorithm (GA) and Swarm-Based Binary Decision Diagram (BDD) Reordering Optimizer Reinforced With Recent Operators | IEEE Trans. on Evolutionary Computation | 📄 [Paper](https://doi.org/10.1109/TEVC.2022.3170212)
@@ -246,6 +241,5 @@
 | 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
 | 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — |
 | 23 | 2022 | Scheduling flexible manufacturing cell with no-idle flow-lines and job-shop via Q-learning-based genetic algorithm | Computers & Industrial Engineering | — |
-| 21 | 2026 | Financial cost optimization of urban water resource scheduling using genetic algorithms: A metaheuristic approach | Expert Systems with Applications | — | 
 
 
