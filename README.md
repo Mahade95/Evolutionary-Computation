@@ -140,6 +140,9 @@
 | 131 | 2024 | A Novel Hybrid Whale Optimization Algorithm Differential Evolution Algorithm-Based Maximum Power Point Tracking Employed Wind Energy Conversion Systems | IEEE Transactions on Industrial Electronics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TIE.2023.3260345) |
 | 156 | 2023 | Solving the Single-Row Facility Layout Problem by K-Medoids Memetic Permutation Group | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2022.3165987) |
 | 23 | 2022 | Scheduling flexible manufacturing cell with no-idle flow-lines and job-shop via Q-learning-based genetic algorithm | Computers & Industrial Engineering |[![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.cie.2022.108293)| 
+| 35 | 2020 | Characterizing the effects of random subsampling on lexicase selection | Genetic Programming Theory and Practice XVII (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-030-39958-0_1) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/FergusonAJ/gptp-2019-subsampled-lexicase)
+| 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2022.3145706) | N/A|
+| 28 | 2019 | Exploring genetic programming systems with MAP-Elites | Genetic Programming Theory and Practice XVI (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-030-04735-1_1) | |[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://doi.org/10.5281/zenodo.1345799)
 
 **Medical Imageing**
 | ID | Year | Paper Title | Venue | Paper Link |Code|
@@ -168,7 +171,6 @@
 | 10 | 2021 | Evolutionary machine learning: A survey | ACM Computing Surveys | — |  
 | 11 | 2022 | A survey on evolutionary computation for complex continuous optimization | Artificial Intelligence Review | — |  
 
-| 35 | 2020 | Characterizing the effects of random subsampling on lexicase selection | Genetic Programming Theory and Practice XVII (Springer) | — | 
 
 | 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | — | 
 
@@ -324,8 +326,6 @@ Systems | — |
 
 | 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — |
 | 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | — |
-| 28 | 2019 | Exploring genetic programming systems with MAP-Elites | Genetic Programming Theory and Practice XVI (Springer) | — | 
-| 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | — | 
 
 
 
