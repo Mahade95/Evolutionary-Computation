@@ -142,7 +142,8 @@
 | 23 | 2022 | Scheduling flexible manufacturing cell with no-idle flow-lines and job-shop via Q-learning-based genetic algorithm | Computers & Industrial Engineering |[![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.cie.2022.108293)| 
 | 35 | 2020 | Characterizing the effects of random subsampling on lexicase selection | Genetic Programming Theory and Practice XVII (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-030-39958-0_1) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/FergusonAJ/gptp-2019-subsampled-lexicase)
 | 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2022.3145706) | N/A|
-| 28 | 2019 | Exploring genetic programming systems with MAP-Elites | Genetic Programming Theory and Practice XVI (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-030-04735-1_1) | |[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://doi.org/10.5281/zenodo.1345799)
+| 28 | 2019 | Exploring genetic programming systems with MAP-Elites | Genetic Programming Theory and Practice XVI (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-030-04735-1_1)|[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://doi.org/10.5281/zenodo.1345799)|
+| 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/CEC.2018.8477953) | N/A |  
 
 **Medical Imageing**
 | ID | Year | Paper Title | Venue | Paper Link |Code|
@@ -172,7 +173,7 @@
 | 11 | 2022 | A survey on evolutionary computation for complex continuous optimization | Artificial Intelligence Review | — |  
 
 
-| 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | — | 
+
 
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | — | 
 
