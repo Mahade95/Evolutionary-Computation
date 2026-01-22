@@ -144,6 +144,9 @@
 | 32 | 2022 | Knowledge-based reinforcement learning and estimation of distribution algorithm for flexible job shop scheduling problem | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2022.3145706) | N/A|
 | 28 | 2019 | Exploring genetic programming systems with MAP-Elites | Genetic Programming Theory and Practice XVI (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-030-04735-1_1)|[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://doi.org/10.5281/zenodo.1345799)|
 | 36 | 2018 | Towards understanding and refining the general program synthesis benchmark suite with genetic programming | IEEE CEC 2018 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/CEC.2018.8477953) | N/A |  
+| 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.3390/su13169015)| N/A |  
+| 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-55696-3_17) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP) |
+| 38 | 2016 | Grammar design for derivation tree based genetic programming systems | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-30668-1_13) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP)
 
 **Medical Imageing**
 | ID | Year | Paper Title | Venue | Paper Link |Code|
@@ -175,9 +178,7 @@
 
 
 
-| 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | — | 
 
-| 38 | 2016 | Grammar design for derivation tree based genetic programming systems | European Conference on Genetic Programming (Springer) | — | 
 
 | 42 | 2020 | One step forward toward smart city Utopia: Smart building energy management based on adaptive surrogate modelling | Energy and Buildings | — |
 
@@ -326,7 +327,6 @@ Systems | — |
 | 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
 
 | 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — |
-| 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | — |
 
 
 
