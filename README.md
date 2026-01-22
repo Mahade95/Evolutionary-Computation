@@ -147,6 +147,7 @@
 | 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.3390/su13169015)| N/A |  
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-55696-3_17) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP) |
 | 38 | 2016 | Grammar design for derivation tree based genetic programming systems | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-30668-1_13) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP)
+| 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.energy.2019.06.115) | N/A |
 
 **Medical Imageing**
 | ID | Year | Paper Title | Venue | Paper Link |Code|
@@ -326,7 +327,6 @@ Systems | — |
 
 | 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
 
-| 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | — |
 
 
 
