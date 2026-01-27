@@ -1,25 +1,34 @@
 # Evolutionary-Computation
 
 ## Recent Evolutionary Computation Related Papers
+**NAS/ENAS**
 | ID | Year | Paper Title | Venue | Paper Link |Code|
 |---:|:----:|------------|-------|-----------|-----------|
 | 214 | 2025 | Mde-EvoNAS: Automatic network architecture design for monocular depth estimation via evolutionary neural architecture search | Swarm and Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.swevo.2024.101837) | N/A| 
-| 1 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110639) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/qiunile/ASMEvoNAS)|
 | 2 | 2023 | NPENAS: Neural Predictor Guided Evolution for Neural Architecture Search | IEEE TNNLS | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TNNLS.2022.3211522) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/auroua/NPENASv1)|
-| 176 | 2022 | Genetic U-Net: Automatically Designed Deep Networks for Retinal Vessel Segmentation Using a Genetic Algorithm | IEEE TMI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TMI.2021.3111679) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/96jhwei/Genetic-U-Net)
 | 159 | 2021 | EEEA-Net: An Early Exit Evolutionary Neural Architecture Search | Engineering Applications of Artificial Intelligence | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.engappai.2021.104397) |[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/chakkritte/EEEA-Net)|
+| 24 | 2021 | FairNas: rethinking evaluation fairness of weight sharing neural architecture search | IEEE/CVF International Conference on computer vision | | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/xiaomi-automl/FairNAS)
+| 14 | 2025 | Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation | Information Fusion | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.inffus.2025.103301)| 
+| 41  | 2023 | Continuous Cartesian Genetic Programming Based Representation for Multi-Objective Neural Architecture Search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110788) |
+
+
+
+## Recent Evolutionary Computation Related Papers
+| ID | Year | Paper Title | Venue | Paper Link |Code|
+|---:|:----:|------------|-------|-----------|-----------|
+| 1 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110639) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/qiunile/ASMEvoNAS)|
+
+| 176 | 2022 | Genetic U-Net: Automatically Designed Deep Networks for Retinal Vessel Segmentation Using a Genetic Algorithm | IEEE TMI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TMI.2021.3111679) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/96jhwei/Genetic-U-Net)
 | 21 | 2026 | Financial cost optimization of urban water resource scheduling using genetic algorithms: A metaheuristic approach | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.128617)|-| 
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3485194)
 | 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/OJCOMS.2024.3479069)
 | 43 | 2024 | Subset Selection for Evolutionary Multiobjective Optimization | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3261134) | 
-| 24 | 2021 | FairNas: rethinking evaluation fairness of weight sharing neural architecture search | IEEE/CVF International Conference on computer vision | | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/xiaomi-automl/FairNAS)
 | 3 | 2022 | A Niching Augmented Evolutionary Algorithm for the Identification of Functional Dependencies in Complex Technical Infrastructures From Alarm Data | IEEE Systems Journal | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JSYST.2022.3146014)
 | 4 | 2023 | Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm | IEEE Access | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/ACCESS.2023.3291451)
 | 5 | 2023 | A Genetic Algorithm (GA) and Swarm-Based Binary Decision Diagram (BDD) Reordering Optimizer Reinforced With Recent Operators | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2022.3170212)
 | 6 | 2024 | GenMorph: Automatically Generating Metamorphic Relations via Genetic Programming | IEEE Trans. on Software Engineering | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TSE.2024.3407840)
 | 12 | 2023 | Counterexample-Driven Genetic Programming for Symbolic Regression With Formal Constraints | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2022.3205286) |
 | 13 | 2024 | Multiselection-Based Differential Evolution | IEEE TSMC: Systems | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TSMC.2024.3447051) | 
-| 14 | 2025 | Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation | Information Fusion | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.inffus.2025.103301)| 
 | 15 | 2024 | Large-Scale Parallel Cognitive Diagnostic Test Assembly Using A Dual-Stage Differential Evolution-Based Approach | IEEE Trans. on Artificial Intelligence | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TAI.2023.3341916) |
 | 16 | 2022 | Forest Disaster Detection Method Based on Ensemble Spatial–Spectral Genetic Algorithm | IEEE JSTARS | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JSTARS.2022.3199539) | 
 | 18 | 2024 | Two-Stage Adaptive Memetic Algorithm with Surprisingly Popular Mechanism for Energy-Aware Distributed Hybrid Flow Shop Scheduling Problem with Sequence-Dependent Setup Time | Complex System Modeling and Simulation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.23919/CSMS.2024.0003) | 
@@ -33,10 +42,8 @@
 | 33 | 2024 | Distributed Evolution Strategies With MultiLevel Learning for Large-Scale Black-Box Optimization | IEEE TPDS | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TPDS.2024.3437688) | 
 | 34 | 2025 | Memetic Differential Evolution With Adaptive Niching Selection and Diversity-Driven Strategies for Multimodal Optimization | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2025.3529903) |
 | 40  | 2025 | A Hybrid Self-Adaptive Differential Evolution Algorithm With Simplified Bayesian Local Optimizer for Efficient Design of Antennas | IEEE Trans. Antennas and Propagation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TAP.2024.3501406) | 
-| 41  | 2023 | Continuous Cartesian Genetic Programming Based Representation for Multi-Objective Neural Architecture Search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110788) |
 | 46  | 2022 | Multiple Buried Target Reconstruction Using a Multiscale Hybrid of Diffraction Tomography and CMA-ES Optimization | IEEE TGRS | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TGRS.2022.3206722) |
 | 48  | 2025 | Application of Remote Sensing Technologies in Monitoring and Managing Renewable Energy Sources | IEEE Trans. on Consumer Electronics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCE.2025.3565573) |
-| 49  | 2025 | Automated Polyp Segmentation Using Evolutionary Neural Architecture Search | DICTA 2025 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/DICTA68720.2025.11302467) |
 | 50  | 2025 | Active Learning in Genetic Programming: Guiding Efficient Data Collection for Symbolic Regression | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3471341) |
 | 53  | 2016 | Many-Objective Evolutionary Algorithm: Objective Space Reduction and Diversity Improvement | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2015.2433266) |
 | 60  | 2025 | Many-Task Differential Evolutionary Algorithm Based on Bi-Space Similarity | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3398436) |
@@ -160,6 +167,8 @@
 | 207 | 2023 | Efficient multi-objective evolutionary neural architecture search for U-Nets with diamond atrous convolution and Transformer for medical image segmentation | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110869) |-|
 | 208 | 2023 | EU-Net: Automatic U-Net neural architecture search with differential evolutionary algorithm for medical image segmentation | Computers in Biology and Medicine | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.compbiomed.2023.107579) |
 | 172 | 2024 | MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3352641) |
+| 49  | 2025 | Automated Polyp Segmentation Using Evolutionary Neural Architecture Search | DICTA 2025 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/DICTA68720.2025.11302467) |
+
 
 **Survey Paper**
 | ID | Year | Paper Title | Venue | Paper Link |
