@@ -1,7 +1,23 @@
-# Evolutionary-Computation
+## 🧬Evolutionary Computation: A Computational Paradigm for Search and Optimization
 
-## Recent Evolutionary Computation Related Papers
-**NAS/ENAS**
+**Problem statement:**
+Evolutionary computation (EC) has proven effective for solving complex optimization problems but lacks a unified understanding of its principles. This survey addresses the need for a comprehensive review of evolutionary algorithms (EAs), their design principles, and applications in fields such as neural architecture search (NAS), AutoML, and medical image segmentation. 
+
+**Methods:**
+The survey provides a detailed analysis of EC, examining core design principles like solution representation, fitness modeling, and variation operators. It includes an integrative taxonomy of EC paradigms, reviews theoretical foundations, and discusses performance evaluation techniques, focusing on scalability, reliability, and reproducibility challenges in real-world applications.
+
+**Results:**
+The survey identifies gaps between theoretical and empirical performance, particularly in high-dimensional, noisy environments. It highlights emerging trends like hybrid evolutionary-learning systems and the integration of large language models in EC, offering new avenues for optimization in complex tasks.
+
+**Significance:**
+This survey consolidates key insights into the strengths and limitations of EAs, positioning them as adaptable computational search systems. It provides researchers with a clear framework for advancing EC, particularly in optimizing modern AI systems like NAS and AutoML, while emphasizing the importance of efficiency, scalability, and reproducibility.
+
+
+## Evolutionary Computation Related Papers Used in this study
+This repository accompanies our survey on evolutionary computation, offering a computing-centric view of evolutionary algorithms as general-purpose search and optimization systems. The work emphasizes core design principles, evaluation practices, and system-level trade-offs, and synthesizes theory and cross-domain evidence to explain when and why evolutionary methods are effective in modern optimization pipelines.
+
+📚**Neural Architecture Search (NAS / ENAS)** Evolutionary methods for discrete and multi-objective neural architecture optimization.
+
 | ID | Year | Paper Title | Venue | Paper Link |Code|
 |---:|:----:|------------|-------|-----------|-----------|
 | 214 | 2025 | Mde-EvoNAS: Automatic network architecture design for monocular depth estimation via evolutionary neural architecture search | Swarm and Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.swevo.2024.101837) | N/A| 
@@ -10,15 +26,48 @@
 | 24 | 2021 | FairNas: rethinking evaluation fairness of weight sharing neural architecture search | IEEE/CVF International Conference on computer vision | | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/xiaomi-automl/FairNAS)
 | 14 | 2025 | Multi-view information fusion based on federated multi-objective neural architecture search for MRI semantic segmentation | Information Fusion | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.inffus.2025.103301)| 
 | 41  | 2023 | Continuous Cartesian Genetic Programming Based Representation for Multi-Objective Neural Architecture Search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110788) |
+| 192 | 2023 | Neural Architecture Search Based on a Multi-Objective Evolutionary Algorithm With Probability Stack | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3252612) |
+| 72  | 2025 | Score Predictor-Assisted Evolutionary Neural Architecture Search | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2025.3526179) |
+| 155 | 2025 | M2M-Net: multi-objective neural architecture search using dynamic M2M population decomposition | Neural Computing and Applications | — |  
+| 206 | 2020 | Nas-Bench-101: Towards reproducible neural architecture search | ICML | — |  
+| 170 | 2024 | Adaptive lightweight convolutional neural architecture search for segmentation problem | Engineering Optimization | — |  
 
+📚**Medical Imaging and Healthcare** Evolutionary optimization for segmentation, classification, and medical decision support under noisy and constrained settings.
+| ID | Year | Paper Title | Venue | Paper Link |Code|
+|---:|:----:|------------|-------|-----------|-------|
+| 215 | 2025 | PSNAS-Net: Hybrid gradient-physical optimization for efficient neural architecture search in customized medical imaging analysis | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.128155) |
+| 152 | 2025 | Multi-objective evolutionary neural architecture search for medical image analysis using transformer and large language models in advancing public health | Applied Soft Computing | — |  
+| 61  | 2025 | Mixed-GGNAS: Mixed Search-space NAS based on genetic algorithm combined with gradient descent for medical image segmentation | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.128338) |[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/Hmxki/Mixed-GGNAS)|
+| 83  | 2025 | Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks for Few-Shot Medical Segmentation With Noisy Labels | IEEE JBHI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JBHI.2025.3541849) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/yzhang-engr/MOE_FewSeg)|
+| 39  | 2024 | Tree-Based Codification in Neural Architecture Search for Medical Image Segmentation | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3353182) | N/A|
+| 207 | 2023 | Efficient multi-objective evolutionary neural architecture search for U-Nets with diamond atrous convolution and Transformer for medical image segmentation | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110869) |-|
+| 208 | 2023 | EU-Net: Automatic U-Net neural architecture search with differential evolutionary algorithm for medical image segmentation | Computers in Biology and Medicine | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.compbiomed.2023.107579) |
+| 172 | 2024 | MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3352641) |
+| 49  | 2025 | Automated Polyp Segmentation Using Evolutionary Neural Architecture Search | DICTA 2025 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/DICTA68720.2025.11302467) |
+| 203 | 2026 | EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation | Information Fusion | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.inffus.2026.104119) |
+| 176 | 2022 | Genetic U-Net: Automatically Designed Deep Networks for Retinal Vessel Segmentation Using a Genetic Algorithm | IEEE TMI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TMI.2021.3111679) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/96jhwei/Genetic-U-Net)
+| 133 | 2023 | An evolutionary U-shaped network for retinal vessel segmentation using binary teaching–learning-based optimization | Biomedical Signal Processing and Control | — |  
+| 76 | 2023 | BaDENAS: Bayesian based neural architecture search for retinal vessel segmentation | IEEE SIU Conference | — |  
+| 77 | 2023 | Differential evolution-based neural architecture search for brain vessel segmentation | Engineering Science and Technology | — |
+| 78  | 2023 | Evolutionary Architecture Optimization for Retinal Vessel Segmentation | IEEE JBHI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JBHI.2023.3314981) |N/A|
+| 201 | 2025 | Optimizing Brain Tumor Segmentation Networks Through Evolutionary Neural Architecture Search | DICTA 2025 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/DICTA68720.2025) |
+| 202 | 2025 | Evo-GrayNet: Colon Polyp Detection and Segmentation using Evolutionary Network Architecture Search | IEEE TIM | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TIM.2025.3636637) |
+| 139 | 2025 | Hierarchical Encoding Method for Retinal Segmentation Evolutionary Architecture Search | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2024.3395540) | N/A |
+
+### Multi-Objective Evolutionary Optimization
+Pareto-based evolutionary methods for handling conflicting objectives.
+| ID | Year | Paper Title | Venue | Paper Link |Code|
+|---:|:----:|------------|-------|-----------|-----------|
+| 1 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110639) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/qiunile/ASMEvoNAS)|
+| 85  | 2024 | A Two-Stage Hybrid Multi-Objective Optimization Evolutionary Algorithm for Computing Offloading in Sustainable Edge Computing | IEEE Transactions on Consumer Electronics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCE.2024.3376930) |
+| 97  | 2021 | Heat dissipation analysis and multi-objective optimization of a permanent magnet synchronous motor using surrogate-assisted method | Case Studies in Thermal Engineering | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.csite.2021.101203) |
+| 233 | 2026 | Balanced multi-objective evolution algorithm for unmanned systems project scheduling with preventive maintenance and order grouping constraints | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.130006) |
+| 114 | 2024 | Economic Emission Dispatch With Stochastic Renewable Power and Voltage Source Converters via Reinforcement Learning Multi-Objective Differential Evolution | IEEE Transactions on Power Systems | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TPWRS.2024.3371833) |
 
 
 ## Recent Evolutionary Computation Related Papers
 | ID | Year | Paper Title | Venue | Paper Link |Code|
 |---:|:----:|------------|-------|-----------|-----------|
-| 1 | 2023 | ASMEvoNAS: Adaptive segmented multi-objective evolutionary network architecture search | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110639) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/qiunile/ASMEvoNAS)|
-
-| 176 | 2022 | Genetic U-Net: Automatically Designed Deep Networks for Retinal Vessel Segmentation Using a Genetic Algorithm | IEEE TMI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TMI.2021.3111679) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/96jhwei/Genetic-U-Net)
 | 21 | 2026 | Financial cost optimization of urban water resource scheduling using genetic algorithms: A metaheuristic approach | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.128617)|-| 
 | 1 | 2025 | Quantum Acceleration of Black-Box Pseudo-Boolean Optimization Algorithms | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3485194)
 | 2 | 2024 | Optimizing CP-ABE Decryption in Urban VANETs: A Hybrid Reinforcement Learning and Differential Evolution Approach | IEEE Open Journal of the Communications Society | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/OJCOMS.2024.3479069)
@@ -55,22 +104,17 @@
 | 68  | 2024 | Quantum Genetic Algorithm With Individuals in Multiple Registers | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3296780) |
 | 70  | 2023 | A Niching Regression Adaptive Memetic Algorithm for Multimodal Optimization of the Euclidean Traveling Salesman Problem | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2022.3211954) |
 | 71  | 2025 | Real Relative Encoding Genetic Algorithm for Workflow Scheduling in Heterogeneous Distributed Computing Systems | IEEE TPDS | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TPDS.2024.3492210) |
-| 72  | 2025 | Score Predictor-Assisted Evolutionary Neural Architecture Search | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2025.3526179) |
 | 73  | 2023 | Optimized Dissolved Oxygen Prediction Using Genetic Algorithm and Bagging Ensemble Learning for Smart Fish Farm | IEEE Sensors Journal | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JSEN.2023.3278719) |
 | 74  | 2021 | Graph-aware evolutionary algorithms for influence maximization | GECCO Companion (ACM) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1145/3449726.3463138) |
 | 75  | 2022 | A Reference Vector-Based Simplified Covariance Matrix Adaptation Evolution Strategy for Constrained Global Optimization | IEEE Transactions on Cybernetics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCYB.2020.3013950) |
-| 78  | 2023 | Evolutionary Architecture Optimization for Retinal Vessel Segmentation | IEEE JBHI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JBHI.2023.3314981) |N/A|
 | 79  | 2024 | DSAC-Configured Differential Evolution for Cloud–Edge–Device Collaborative Task Scheduling | IEEE TII | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TII.2023.3281661) |
 | 81  | 2024 | Optimal Design of a Novel Semi-Elliptical Bending Waveguide Slow Wave Structure via Multistage Collaborative Deep Learning and Differential Evolution Algorithm | IEEE Transactions on Plasma Science | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TPS.2024.3412995) |
-| 85  | 2024 | A Two-Stage Hybrid Multi-Objective Optimization Evolutionary Algorithm for Computing Offloading in Sustainable Edge Computing | IEEE Transactions on Consumer Electronics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCE.2024.3376930) |
 | 91  | 2023 | Surprisingly Popular-Based Adaptive Memetic Algorithm for Energy-Efficient Distributed Flexible Job Shop Scheduling | IEEE Transactions on Cybernetics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCYB.2023.3280175) |
-| 97  | 2021 | Heat dissipation analysis and multi-objective optimization of a permanent magnet synchronous motor using surrogate-assisted method | Case Studies in Thermal Engineering | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.csite.2021.101203) |
 | 99  | 2022 | Noisy Optimization by Evolution Strategies With Online Population Size Learning | IEEE Transactions on Systems, Man, and Cybernetics: Systems | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TSMC.2021.3131482) |
 | 102 | 2025 | Evolutionary Multitasking Memetic Algorithm for Distributed Hybrid Flow-Shop Scheduling Problem With Deterioration Effect | IEEE Transactions on Automation Science and Engineering | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TASE.2024.3365518) |
 | 107 | 2024 | Optimized RRT Planning With CMA-ES for Autonomous Navigation of Magnetic Microrobots in Complex Environments | IEEE/ASME Transactions on Mechatronics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TMECH.2024.3435735) |
 | 108 | 2023 | Genetic Algorithms and Machine Learning Enhanced Laser Displacement Sensor Point Cloud Augmentation for Low-Cost, Large-Scale Flatness Measurements | IEEE Sensors Journal | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JSEN.2023.3311644) |
 | 235 | 2024 | A Novel Multiobjective Genetic Programming Approach to High-Dimensional Data Classification | IEEE TCYB | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCYB.2024.3372070) |
-| 233 | 2026 | Balanced multi-objective evolution algorithm for unmanned systems project scheduling with preventive maintenance and order grouping constraints | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.130006) |
 | 227 | 2023 | A multi-agent reinforcement learning driven artificial bee colony algorithm with the central controller | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2023.119672) |
 | 228 | 2023 | A cooperative scatter search with reinforcement learning mechanism for the distributed permutation flowshop scheduling problem with sequence-dependent setup times | IEEE TSMC: Systems | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TSMC.2023.3373619) |
 | 229 | 2023 | A reinforced hybrid genetic algorithm for the traveling salesman problem | Computers & Operations Research | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.cor.2023.106249) |
@@ -91,13 +135,9 @@
 | 213 | 2022 | Memristor Parallel Computing for a Matrix-Friendly Genetic Algorithm | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2022.3144419) |
 | 199 | 2020 | A Graph-Based Fuzzy Evolutionary Algorithm for Solving Two-Echelon Vehicle Routing Problems | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2019.2911736) |
 | 200 | 2025 | Efficient Automatic Design of IGBT Structural Parameters Using Differential Evolution and Machine Learning Model | IEEE TCAD | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCAD.2024.3468011) |
-| 201 | 2025 | Optimizing Brain Tumor Segmentation Networks Through Evolutionary Neural Architecture Search | DICTA 2025 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/DICTA68720.2025) |
-| 202 | 2025 | Evo-GrayNet: Colon Polyp Detection and Segmentation using Evolutionary Network Architecture Search | IEEE TIM | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TIM.2025.3636637) |
-| 203 | 2026 | EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation | Information Fusion | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.inffus.2026.104119) |
 | 204 | 2022 | Automated Configuration of Genetic Algorithms by Tuning for Anytime Performance | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2022.3159087) |
 | 205 | 2023 | Joint Active and Passive Beamforming Optimization for Multi-IRS-Assisted Wireless Communication Systems: A Covariance Matrix Adaptation Evolution Strategy | IEEE TVT | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TVT.2023.3253505) |
 | 113 | 2022 | Hybridizing Niching, Particle Swarm Optimization, and Evolution Strategy for Multimodal Optimization | IEEE Transactions on Cybernetics | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCYB.2020.3032995) |
-| 114 | 2024 | Economic Emission Dispatch With Stochastic Renewable Power and Voltage Source Converters via Reinforcement Learning Multi-Objective Differential Evolution | IEEE Transactions on Power Systems | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TPWRS.2024.3371833) |
 | 116 | 2023 | Multiobjective Memetic Spatiotemporal Subpixel Mapping for Remote Sensing Imagery | IEEE Transactions on Geoscience and Remote Sensing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TGRS.2023.3318003) |
 | 120 | 2023 | Network Optimization based on Genetic Algorithm for High-Level Data Classification | IEEE Latin America Transactions | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TLA.2023.10015222) |
 | 123 | 2025 | Two-Stage Deep Feature Selection Method Using Voting Differential Evolution Algorithm for Pneumonia Detection From Chest X-Ray Images | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2024.3425285) |
@@ -107,7 +147,6 @@
 | 136 | 2023 | A Memetic Algorithm for Cooperative Complex Task Offloading in Heterogeneous Vehicular Networks | IEEE TNSE | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TNSE.2022.3206228) |
 | 137 | 2025 | Performance Assessment of Population-Based Multiobjective Optimization Algorithms Using Composite Indicators | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2025.3544412) |
 | 138 | 2025 | Optimization of Waveguide Bend Loss in Integrated Optical Gyroscope Based on CMA-ES Algorithm | IEEE Sensors Journal | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JSEN.2025.3589254) |
-| 139 | 2025 | Hierarchical Encoding Method for Retinal Segmentation Evolutionary Architecture Search | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2024.3395540) | N/A |
 | 132 | 2024 | A Self-Adaptive Collaborative Differential Evolution Algorithm for Solving Energy Resource Management Problems in Smart Grids | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3312769) |
 | 141 | 2024 | Neural Architecture Search Using Covariance Matrix Adaptation Evolution Strategy | Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1162/evco_a_00331) |
 | 142 | 2025 | A Comparison of Large Language Models and Genetic Programming for Program Synthesis | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3410873) |
@@ -121,7 +160,6 @@
 | 189 | 2025 | Continuous Berth Allocation and Time-Variant Quay Crane Assignment: Memetic Algorithm With a Heuristic Decoding Method | IEEE TITS | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TITS.2024.3517879) |
 | 190 | 2024 | Genetic Programming With Lexicase Selection for Large-Scale Dynamic Flexible Job Shop Scheduling | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3244607) |
 | 191 | 2023 | A Multi-Population MultiObjective Evolutionary Algorithm Based on the Contribution of Decision Variables to Objectives for Large-Scale Multi/Many-Objective Optimization | IEEE TCYB | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TCYB.2022.3180214) |
-| 192 | 2023 | Neural Architecture Search Based on a Multi-Objective Evolutionary Algorithm With Probability Stack | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3252612) |
 | 193 | 2025 | A Surrogate Model with Multiple Comparisons and Semi-Online Learning for Evolutionary Neural Architecture Search | IEEE TETCI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TETCI.2025.3547621) |
 | 194 | 2023 | Evolutionary architecture search for generative adversarial networks based on weight sharing | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2023.3252612) |
 | 195 | 2025 | Evolutionary Neural Architecture Search Based on Pre-trained Surrogate Model | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2025.114145) |
@@ -155,20 +193,6 @@
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-55696-3_17) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP) |
 | 38 | 2016 | Grammar design for derivation tree based genetic programming systems | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-30668-1_13) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP)
 | 8 | 2019 | Data-driven surrogate assisted evolutionary optimization of hybrid powertrain for improved fuel economy and performance | Energy | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.energy.2019.06.115) | N/A |
-
-**Medical Imageing**
-| ID | Year | Paper Title | Venue | Paper Link |Code|
-|---:|:----:|------------|-------|-----------|-------|
-| 215 | 2025 | PSNAS-Net: Hybrid gradient-physical optimization for efficient neural architecture search in customized medical imaging analysis | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.128155) |
-| 152 | 2025 | Multi-objective evolutionary neural architecture search for medical image analysis using transformer and large language models in advancing public health | Applied Soft Computing | — |  
-| 61  | 2025 | Mixed-GGNAS: Mixed Search-space NAS based on genetic algorithm combined with gradient descent for medical image segmentation | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2025.128338) |[![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/Hmxki/Mixed-GGNAS)|
-| 83  | 2025 | Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks for Few-Shot Medical Segmentation With Noisy Labels | IEEE JBHI | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/JBHI.2025.3541849) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/yzhang-engr/MOE_FewSeg)|
-| 39  | 2024 | Tree-Based Codification in Neural Architecture Search for Medical Image Segmentation | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3353182) | N/A|
-| 207 | 2023 | Efficient multi-objective evolutionary neural architecture search for U-Nets with diamond atrous convolution and Transformer for medical image segmentation | Applied Soft Computing | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.asoc.2023.110869) |-|
-| 208 | 2023 | EU-Net: Automatic U-Net neural architecture search with differential evolutionary algorithm for medical image segmentation | Computers in Biology and Medicine | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.compbiomed.2023.107579) |
-| 172 | 2024 | MedNAS: Multiscale Training-Free Neural Architecture Search for Medical Image Analysis | IEEE Trans. on Evolutionary Computation | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TEVC.2024.3352641) |
-| 49  | 2025 | Automated Polyp Segmentation Using Evolutionary Neural Architecture Search | DICTA 2025 | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/DICTA68720.2025.11302467) |
-
 
 **Survey Paper**
 | ID | Year | Paper Title | Venue | Paper Link |
@@ -218,9 +242,7 @@
 
 | 69 | 2023 | Q-learning driven multi-population memetic algorithm for distributed three-stage assembly hybrid flow shop scheduling with flexible preventive maintenance | Expert Systems with Applications | — |  
 
-| 76 | 2023 | BaDENAS: Bayesian based neural architecture search for retinal vessel segmentation | IEEE SIU Conference | — |  
 
-| 77 | 2023 | Differential evolution-based neural architecture search for brain vessel segmentation | Engineering Science and Technology | — |  
 
 | 80 | 2019 | Tag-accessed memory for genetic programming | GECCO Companion | — |  
 
@@ -286,8 +308,6 @@ Systems | — |
 
 | 130 | 2023 | Reinforcement learning-based hybrid differential evolution for global optimization of interplanetary trajectory design | Swarm and Evolutionary Computation | — |  
 
-| 133 | 2023 | An evolutionary U-shaped network for retinal vessel segmentation using binary teaching–learning-based optimization | Biomedical Signal Processing and Control | — |  
-
 | 134 | 2019 | Regularized evolution for image classifier architecture search | AAAI | — |  
 
 | 140 | 2017 | Surrogate-based MOEA/D for electric motor design with scarce function evaluations | IEEE Transactions on Magnetics | — |  
@@ -299,8 +319,6 @@ Systems | — |
 | 148 | 2020 | Surrogate-assisted evolutionary deep learning using an end-to-end random forest-based performance predictor | IEEE Trans. on Evolutionary Computation | — |  
 
 | 149 | 2019 | Completely automated CNN architecture design based on blocks | IEEE TNNLS | — |   
-
-| 155 | 2025 | M2M-Net: multi-objective neural architecture search using dynamic M2M population decomposition | Neural Computing and Applications | — |  
 
 | 157 | 2018 | Two-level surrogate-assisted differential evolution multi-objective optimization of electric machines using 3-D FEA | IEEE Transactions on Magnetics | — |  
 
@@ -318,8 +336,6 @@ Systems | — |
 
 | 187 | 2021 | A federated data-driven evolutionary algorithm | Knowledge-Based Systems | — |  
 
-| 206 | 2020 | Nas-Bench-101: Towards reproducible neural architecture search | ICML | — |  
-
 | 17 | 2021 | Multi-objective optimization of building energy performance and indoor thermal comfort by combining artificial neural networks and metaheuristic algorithms | Energy and Buildings | — | 
 
 | 223 | 2020 | Surrogate-assisted quasi-Newton enhanced global optimization of antennas based on a heuristic hypersphere sampling | IEEE TAP | — |  
@@ -332,7 +348,6 @@ Systems | — |
 
 | 10 | 2025 | Stochastic population update can provably be helpful in multi-objective evolutionary algorithms | Artificial Intelligence | — |
 
-| 170 | 2024 | Adaptive lightweight convolutional neural architecture search for segmentation problem | Engineering Optimization | — |  
 
 | 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
 
