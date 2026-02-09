@@ -84,6 +84,14 @@ Pareto-based evolutionary methods for handling conflicting objectives.
 | 31 | 2021 | A many-objective optimization for an eco-efficient flue gas desulfurization process using a surrogate-assisted evolutionary algorithm | Sustainability | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.3390/su13169015)| N/A |  
 | 37 | 2017 | A grammar design pattern for arbitrary program synthesis problems in genetic programming | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-55696-3_17) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP) |
 | 38 | 2016 | Grammar design for derivation tree based genetic programming systems | European Conference on Genetic Programming (Springer) | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1007/978-3-319-30668-1_13) | [![GitHub Code](https://img.shields.io/badge/GitHub-Code-red?logo=github)](https://github.com/t-h-e/HeuristicLab.CFGGP)
+| 55 | 2020 | Genetic source sensitivity and transfer learning in genetic programming | Artificial Life Conf. Proc. 32 (MIT Press) | — | 
+| 80 | 2019 | Tag-accessed memory for genetic programming | GECCO Companion | — |  
+| 56 | 2018 | Linear genomes for structured programs | Genetic Programming Theory and Practice XIV (Springer) | — |
+| 57 | 2020 | Counterexample-driven genetic programming without formal specifications | GECCO Companion 2020 | — | 
+| 121 | 2021 | Symbolic regression via deep reinforcement learning enhanced genetic programming seeding | NeurIPS | — |  
+| 125 | 2020 | Comparison of linear genome representations for software synthesis | Genetic Programming Theory and Practice XVII (Springer) | — |  
+| 126 | 2020 | Code building genetic programming | GECCO 2020 | — |  
+| 101 | 2026 | MDGP-forest: A novel deep forest for multi-class imbalanced learning based on multi-class disassembly and feature construction enhanced by genetic programming | Pattern Recognition | — |  
 
 
 ## Recent Evolutionary Computation Related Papers
@@ -238,7 +246,6 @@ Integration of evolutionary algorithms with deep learning and reinforcement lear
 | 227 | 2023 | A multi-agent reinforcement learning driven artificial bee colony algorithm with the central controller | Expert Systems with Applications | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1016/j.eswa.2023.119672) |
 | 228 | 2023 | A cooperative scatter search with reinforcement learning mechanism for the distributed permutation flowshop scheduling problem with sequence-dependent setup times | IEEE TSMC: Systems | [![Paper](https://img.shields.io/badge/Paper-Link-brightgreen)](https://doi.org/10.1109/TSMC.2023.3373619) |
 
-
 ### Emerging Trends
 LLM-guided evolution, explainable EC, and next-generation evolutionary systems.
 | ID | Year | Paper Title | Venue | Paper Link |
@@ -256,13 +263,6 @@ Evolutionary algorithms that incorporate quantum-inspired representations, proba
 
 
 | 54 | 2019 | Benchmarking evolutionary algorithms for single objective real-valued constrained optimization – a critical review | Swarm and Evolutionary Computation | — | 
-
-| 55 | 2020 | Genetic source sensitivity and transfer learning in genetic programming | Artificial Life Conf. Proc. 32 (MIT Press) | — | 
-
-| 56 | 2018 | Linear genomes for structured programs | Genetic Programming Theory and Practice XIV (Springer) | — |
-
-| 57 | 2020 | Counterexample-driven genetic programming without formal specifications | GECCO Companion 2020 | — | 
-
 | 58 | 2019 | On domain knowledge and novelty to improve program synthesis performance with grammatical evolution | GECCO | — | 
 
 | 59 | 2019 | Random subsampling improves performance in lexicase selection | GECCO Companion | — | 
@@ -273,7 +273,6 @@ Evolutionary algorithms that incorporate quantum-inspired representations, proba
 
 
 
-| 80 | 2019 | Tag-accessed memory for genetic programming | GECCO Companion | — |  
 
 | 82 | 2022 | An improved artificial bee colony algorithm with Q-learning for solving permutation flow-shop scheduling problems | IEEE TSMC: Systems | — |  
 
@@ -300,7 +299,6 @@ Systems | — |
 
 | 100 | 2023 | Scheduling eight-phase urban traffic light problems via ensemble meta-heuristics and Q-learning based local search | IEEE Transactions on Intelligent Transportation Systems | — |  
 
-| 101 | 2026 | MDGP-forest: A novel deep forest for multi-class imbalanced learning based on multi-class disassembly and feature construction enhanced by genetic programming | Pattern Recognition | — |  
 
 | 103 | 2023 | NeuroCrossover: An intelligent genetic locus selection scheme for genetic algorithm using reinforcement learning | Applied Soft Computing | — |  
 
@@ -321,15 +319,12 @@ Systems | — |
 | 117 | 2023 | BTU-Net: Bidirectional Transformer U-Net for buildings segmentation | IEEE China Automation Congress | — |  
 
 
-| 121 | 2021 | Symbolic regression via deep reinforcement learning enhanced genetic programming seeding | NeurIPS | — |  
 
   
 
 | 124 | 2023 | Stitchable neural networks | CVPR 2023 | — |  
 
-| 125 | 2020 | Comparison of linear genome representations for software synthesis | Genetic Programming Theory and Practice XVII (Springer) | — |  
 
-| 126 | 2020 | Code building genetic programming | GECCO 2020 | — |  
 
 
 | 130 | 2023 | Reinforcement learning-based hybrid differential evolution for global optimization of interplanetary trajectory design | Swarm and Evolutionary Computation | — |  
