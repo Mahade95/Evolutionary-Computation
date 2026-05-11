@@ -296,8 +296,7 @@ Evolutionary algorithms that incorporate quantum-inspired representations, proba
 | 92 | 2023 | Evolutionary multitasking via reinforcement learning | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
 | 93 | 2026 | Efficient complex task offloading in blockchain-secured edge computing using a many-objective evolutionary algorithm | Future Generation Computer Systems | — |  
 | 94 | 2023 | Scheduling of continuous annealing with a multi-objective differential evolution algorithm based on deep reinforcement learning | IEEE Transactions on Automation Science and Engineering | — |  
-| 95 | 2023 | Multi-agent evolution reinforcement learning method for machining parameters optimization based on bootstrap aggregating graph attention network simulated environment | Journal of Manufacturing 
-Systems | — |  
+| 95 | 2023 | Multi-agent evolution reinforcement learning method for machining parameters optimization based on bootstrap aggregating graph attention network simulated environment | Journal of Manufacturing Systems | — |  
 | 96 | 2023 | Reinforcement learning-based particle swarm optimization with neighborhood differential mutation strategy | Swarm and Evolutionary Computation | — |  
 | 98 | 2023 | A reinforcement learning–artificial bee colony algorithm for flexible job-shop scheduling problem with lot streaming | Applied Soft Computing | — |  
 | 100 | 2023 | Scheduling eight-phase urban traffic light problems via ensemble meta-heuristics and Q-learning based local search | IEEE Transactions on Intelligent Transportation Systems | — |  
