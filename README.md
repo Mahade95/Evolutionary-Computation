@@ -93,7 +93,6 @@ Pareto-based evolutionary methods for handling conflicting objectives.
 | 126 | 2020 | Code building genetic programming | GECCO 2020 | — |  
 | 101 | 2026 | MDGP-forest: A novel deep forest for multi-class imbalanced learning based on multi-class disassembly and feature construction enhanced by genetic programming | Pattern Recognition | — |  
 
-
 ## Recent Evolutionary Computation Related Papers
 | ID | Year | Paper Title | Venue | Paper Link |Code|
 |---:|:----:|------------|-------|-----------|-----------|
@@ -260,101 +259,65 @@ Evolutionary algorithms that incorporate quantum-inspired representations, proba
 |---:|:----:|------------|-------|-----------|
 | 47 | 2002 | Quantum-inspired evolutionary algorithm for a class of combinatorial optimization | IEEE Trans. on Evolutionary Computation | — |
 
-
-
-| 54 | 2019 | Benchmarking evolutionary algorithms for single objective real-valued constrained optimization – a critical review | Swarm and Evolutionary Computation | — | 
-| 58 | 2019 | On domain knowledge and novelty to improve program synthesis performance with grammatical evolution | GECCO | — | 
-
-| 59 | 2019 | Random subsampling improves performance in lexicase selection | GECCO Companion | — | 
-
-| 64 | 2026 | A deep reinforcement learning-guided multimodal multi-objective evolutionary algorithm with a serial-parallel mechanism | Expert Systems with Applications | — |
-
-| 69 | 2023 | Q-learning driven multi-population memetic algorithm for distributed three-stage assembly hybrid flow shop scheduling with flexible preventive maintenance | Expert Systems with Applications | — |  
-
-
-
-
-| 82 | 2022 | An improved artificial bee colony algorithm with Q-learning for solving permutation flow-shop scheduling problems | IEEE TSMC: Systems | — |  
-
-
-| 86 | 2026 | An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification | Expert Systems with Applications | — |  
-
-
-| 89 | 2022 | A reinforcement learning based RMOEA/D for bi-objective fuzzy flexible job shop scheduling | Expert Systems with Applications | — |  
-
-| 90 | 2022 | A learning-based memetic algorithm for energy-efficient flexible job-shop scheduling with type-2 fuzzy processing time | IEEE Trans. on Evolutionary Computation | — |  
-
-| 92 | 2023 | Evolutionary multitasking via reinforcement learning | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
-
-| 93 | 2026 | Efficient complex task offloading in blockchain-secured edge computing using a many-objective evolutionary algorithm | Future Generation Computer Systems | — |  
-
-| 94 | 2023 | Scheduling of continuous annealing with a multi-objective differential evolution algorithm based on deep reinforcement learning | IEEE Transactions on Automation Science and Engineering | — |  
-
-| 95 | 2023 | Multi-agent evolution reinforcement learning method for machining parameters optimization based on bootstrap aggregating graph attention network simulated environment | Journal of Manufacturing 
-Systems | — |  
-
-| 96 | 2023 | Reinforcement learning-based particle swarm optimization with neighborhood differential mutation strategy | Swarm and Evolutionary Computation | — |  
-
-| 98 | 2023 | A reinforcement learning–artificial bee colony algorithm for flexible job-shop scheduling problem with lot streaming | Applied Soft Computing | — |  
-
-| 100 | 2023 | Scheduling eight-phase urban traffic light problems via ensemble meta-heuristics and Q-learning based local search | IEEE Transactions on Intelligent Transportation Systems | — |  
-
-
+### Genetic Algorithm
+| ID | Year | Paper Title | Venue | Paper Link |
+|---:|:----:|------------|-------|-----------|
 | 103 | 2023 | NeuroCrossover: An intelligent genetic locus selection scheme for genetic algorithm using reinforcement learning | Applied Soft Computing | — |  
-
-| 104 | 2023 | Construction of Polar Codes Based on Memetic Algorithm | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
-
-| 106 | 2023 | Learning to learn evolutionary algorithm: A learnable differential evolution | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
-
-| 109 | 2023 | EGNN: Graph structure learning based on evolutionary computation helps more in graph neural networks | Applied Soft Computing | — |  
-
-| 110 | 2023 | PA&DA: Jointly sampling path and data for consistent NAS | CVPR 2023 | — |  
-
 | 111 | 2019 | NSGANet: Neural architecture search using multi-objective genetic algorithm | GECCO | — |  
-
-| 112 | 2020 | Multiobjective evolutionary design of deep convolutional neural networks for image classification | IEEE Transactions on Evolutionary Computation | — |  
-
-| 115 | 2020 | Program synthesis in a continuous space using grammars and variational autoencoders | PPSN (Springer) | — |  
-
-| 117 | 2023 | BTU-Net: Bidirectional Transformer U-Net for buildings segmentation | IEEE China Automation Congress | — |  
-
-
-
-  
-
-| 124 | 2023 | Stitchable neural networks | CVPR 2023 | — |  
-
-
-
-
-| 130 | 2023 | Reinforcement learning-based hybrid differential evolution for global optimization of interplanetary trajectory design | Swarm and Evolutionary Computation | — |  
-
-| 134 | 2019 | Regularized evolution for image classifier architecture search | AAAI | — |  
-
-
 | 144 | 2023 | Learning adaptive genetic algorithm for earth electromagnetic satellite scheduling | IEEE TAES | — |  
 
-| 147 | 2021 | Multi-objective design optimization of battery thermal management system for electric vehicles | Applied Thermal Engineering | — |   
+### Memetic Algorithm
+| ID | Year | Paper Title | Venue | Paper Link |
+|---:|:----:|------------|-------|-----------|
+| 69 | 2023 | Q-learning driven multi-population memetic algorithm for distributed three-stage assembly hybrid flow shop scheduling with flexible preventive maintenance | Expert Systems with Applications | — |  
+| 90 | 2022 | A learning-based memetic algorithm for energy-efficient flexible job-shop scheduling with type-2 fuzzy processing time | IEEE Trans. on Evolutionary Computation | — |  
+| 104 | 2023 | Construction of Polar Codes Based on Memetic Algorithm | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
 
-| 149 | 2019 | Completely automated CNN architecture design based on blocks | IEEE TNNLS | — |   
-
-
-
-| 161 | 2024 | Deep reinforcement learning based adaptive environmental selection for evolutionary multi-objective optimization | IEEE CEC | — |  
-
-
-
-
-
-| 186 | 2021 | A federated data-driven evolutionary algorithm for expensive multi-/many-objective optimization | Complex & Intelligent Systems | — |  
-
-| 187 | 2021 | A federated data-driven evolutionary algorithm | Knowledge-Based Systems | — |  
-| 17 | 2021 | Multi-objective optimization of building energy performance and indoor thermal comfort by combining artificial neural networks and metaheuristic algorithms | Energy and Buildings | — | 
-| 224 | 2023 | A reinforcement learning-driven brain storm optimisation algorithm for multi-objective energy-efficient distributed assembly no-wait flow shop scheduling problem | IJPR | — |  
-| 226 | 2022 | A reinforcement learning driven artificial bee colony algorithm for distributed heterogeneous no-wait flowshop scheduling problem with sequence-dependent setup times | IEEE TASE | — |   
-| 234 | 2023 | An improved NSGA-III algorithm based on deep Q-networks for cloud storage optimization of blockchain | IEEE TPDS | — | 
+### Multi-Objective EA
+| ID | Year | Paper Title | Venue | Paper Link |
+|---:|:----:|------------|-------|-----------|
 | 10 | 2025 | Stochastic population update can provably be helpful in multi-objective evolutionary algorithms | Artificial Intelligence | — |
 | 11 | 2020 | An efficient metamodel-based method to carry out multi-objective building performance optimizations | Energy and Buildings | — |
+| 17 | 2021 | Multi-objective optimization of building energy performance and indoor thermal comfort by combining artificial neural networks and metaheuristic algorithms | Energy and Buildings | — |
+| 224 | 2023 | A reinforcement learning-driven brain storm optimisation algorithm for multi-objective energy-efficient distributed assembly no-wait flow shop scheduling problem | IJPR | — |  
+| 161 | 2024 | Deep reinforcement learning based adaptive environmental selection for evolutionary multi-objective optimization | IEEE CEC | — |  
+| 147 | 2021 | Multi-objective design optimization of battery thermal management system for electric vehicles | Applied Thermal Engineering | — |  
+
+### Others EA
+| ID | Year | Paper Title | Venue | Paper Link |
+|---:|:----:|------------|-------|-----------|
+| 54 | 2019 | Benchmarking evolutionary algorithms for single objective real-valued constrained optimization – a critical review | Swarm and Evolutionary Computation | — | 
+| 58 | 2019 | On domain knowledge and novelty to improve program synthesis performance with grammatical evolution | GECCO | — | 
+| 59 | 2019 | Random subsampling improves performance in lexicase selection | GECCO Companion | — | 
+| 64 | 2026 | A deep reinforcement learning-guided multimodal multi-objective evolutionary algorithm with a serial-parallel mechanism | Expert Systems with Applications | — |
+| 82 | 2022 | An improved artificial bee colony algorithm with Q-learning for solving permutation flow-shop scheduling problems | IEEE TSMC: Systems | — |  
+| 86 | 2026 | An adaptive length-variation based evolutionary multitasking algorithm for feature selection of high-dimensional classification | Expert Systems with Applications | — |  
+| 89 | 2022 | A reinforcement learning based RMOEA/D for bi-objective fuzzy flexible job shop scheduling | Expert Systems with Applications | — |  
+| 92 | 2023 | Evolutionary multitasking via reinforcement learning | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
+| 93 | 2026 | Efficient complex task offloading in blockchain-secured edge computing using a many-objective evolutionary algorithm | Future Generation Computer Systems | — |  
+| 94 | 2023 | Scheduling of continuous annealing with a multi-objective differential evolution algorithm based on deep reinforcement learning | IEEE Transactions on Automation Science and Engineering | — |  
+| 95 | 2023 | Multi-agent evolution reinforcement learning method for machining parameters optimization based on bootstrap aggregating graph attention network simulated environment | Journal of Manufacturing 
+Systems | — |  
+| 96 | 2023 | Reinforcement learning-based particle swarm optimization with neighborhood differential mutation strategy | Swarm and Evolutionary Computation | — |  
+| 98 | 2023 | A reinforcement learning–artificial bee colony algorithm for flexible job-shop scheduling problem with lot streaming | Applied Soft Computing | — |  
+| 100 | 2023 | Scheduling eight-phase urban traffic light problems via ensemble meta-heuristics and Q-learning based local search | IEEE Transactions on Intelligent Transportation Systems | — |  
+| 106 | 2023 | Learning to learn evolutionary algorithm: A learnable differential evolution | IEEE Transactions on Emerging Topics in Computational Intelligence | — |  
+| 109 | 2023 | EGNN: Graph structure learning based on evolutionary computation helps more in graph neural networks | Applied Soft Computing | — |  
+| 110 | 2023 | PA&DA: Jointly sampling path and data for consistent NAS | CVPR 2023 | — |  
+| 112 | 2020 | Multiobjective evolutionary design of deep convolutional neural networks for image classification | IEEE Transactions on Evolutionary Computation | — |  
+| 115 | 2020 | Program synthesis in a continuous space using grammars and variational autoencoders | PPSN (Springer) | — |  
+| 117 | 2023 | BTU-Net: Bidirectional Transformer U-Net for buildings segmentation | IEEE China Automation Congress | — |  
+| 124 | 2023 | Stitchable neural networks | CVPR 2023 | — |  
+| 130 | 2023 | Reinforcement learning-based hybrid differential evolution for global optimization of interplanetary trajectory design | Swarm and Evolutionary Computation | — |  
+| 134 | 2019 | Regularized evolution for image classifier architecture search | AAAI | — |  
+| 149 | 2019 | Completely automated CNN architecture design based on blocks | IEEE TNNLS | — |   
+| 186 | 2021 | A federated data-driven evolutionary algorithm for expensive multi-/many-objective optimization | Complex & Intelligent Systems | — |  
+| 187 | 2021 | A federated data-driven evolutionary algorithm | Knowledge-Based Systems | — |  
+| 226 | 2022 | A reinforcement learning driven artificial bee colony algorithm for distributed heterogeneous no-wait flowshop scheduling problem with sequence-dependent setup times | IEEE TASE | — |   
+| 234 | 2023 | An improved NSGA-III algorithm based on deep Q-networks for cloud storage optimization of blockchain | IEEE TPDS | — | 
+ 
+
+
 
 
 
